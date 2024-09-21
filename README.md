@@ -60,4 +60,12 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0206-reverse-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/manishtiwari2k3/manish-223117/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/manishtiwari2k3/manish-223117/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
