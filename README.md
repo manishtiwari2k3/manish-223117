@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/manishtiwari2k3/manish-223117/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0142-linked-list-cycle-ii) |
 | [1635-number-of-good-pairs](https://github.com/manishtiwari2k3/manish-223117/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
@@ -52,12 +53,14 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/manishtiwari2k3/manish-223117/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/manishtiwari2k3/manish-223117/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
