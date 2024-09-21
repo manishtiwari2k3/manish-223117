@@ -51,21 +51,32 @@ public:
         // }
         // return prev;
 
-        // recursive approach
+        // // recursive approach
         
 
-        // ListNode* reverseLL(ListNode* head) {
-            if (head == NULL || head->next == NULL) {
-                return head;
-            }
-            ListNode* newH = reverseList(head->next);
+        // // ListNode* reverseLL(ListNode* head) {
+        //     if (head == NULL || head->next == NULL) {
+        //         return head;
+        //     }
+        //     ListNode* newH = reverseList(head->next);
 
-            ListNode* front = head->next;
-            front->next = head;
-            head->next = NULL;
+        //     ListNode* front = head->next;
+        //     front->next = head;
+        //     head->next = NULL;
 
-            return newH;
-        // }
+        //     return newH;
+        // // }
         
+
+        if(head==NULL||head->next==NULL){
+            return head;
+        }
+        ListNode* newH = reverseList(head->next);
+
+        ListNode* front = head->next;
+        front->next = head;
+        head->next = NULL;
+
+        return newH;
     }
 };
