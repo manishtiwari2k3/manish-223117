@@ -25,32 +25,47 @@ public:
         // }
         // return head;
 
+        //     if(head==NULL || head->next==NULL){
+        //         return head;
+        //     }
+        //     ListNode* temp = head;
+        //     ListNode* prev = NULL;
+        //     while(temp != NULL){
+        //         ListNode* front = temp->next;
+        //         temp->next = prev;
+        //         prev = temp;
+        //         temp = front;
+        //     }
+        // return prev;
 
+        // if(head==NULL || head->next==NULL){
+        //     return head;
+        // }
+        // ListNode* temp = head;
+        // ListNode* prev = NULL;
+        // while(temp!=NULL){
+        //     ListNode* front = temp->next;
+        //     temp->next = prev;
+        //     prev = temp;
+        //     temp = front;
+        // }
+        // return prev;
 
-    //     if(head==NULL || head->next==NULL){
-    //         return head;
-    //     }
-    //     ListNode* temp = head;
-    //     ListNode* prev = NULL;
-    //     while(temp != NULL){
-    //         ListNode* front = temp->next;
-    //         temp->next = prev;
-    //         prev = temp;
-    //         temp = front;
-    //     }
-    // return prev;
+        // recursive approach
+        
 
-    if(head==NULL || head->next==NULL){
-        return head;
+        // ListNode* reverseLL(ListNode* head) {
+            if (head == NULL || head->next == NULL) {
+                return head;
+            }
+            ListNode* newH = reverseList(head->next);
+
+            ListNode* front = head->next;
+            front->next = head;
+            head->next = NULL;
+
+            return newH;
+        // }
+        
     }
-    ListNode* temp = head;
-    ListNode* prev = NULL;
-    while(temp!=NULL){
-        ListNode* front = temp->next;
-        temp->next = prev;
-        prev = temp;
-        temp = front;
-    }
-    return prev;
-    }   
 };
