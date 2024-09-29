@@ -11,43 +11,44 @@
 class Solution {
 public:
     ListNode* deleteMiddle(ListNode* head) {
-        // if(head==NULL||head->next==NULL){
-        //     return nullptr;
-        // }
-        // ListNode* slow = head;
-        // ListNode* fast = head;
-        // while(fast->next!=NULL&&fast->next->next!=NULL){
-        //     fast = fast->next->next;
-        //     slow = slow->next;
-        // }
-        // ListNode* del = slow->next;
-        // slow->next=slow->next->next;
-        // delete(del);
-        // return head;
-
-
-
-        ListNode* temp = head;
-        if(head==NULL || head->next==NULL){
-            return NULL;
+        if(head==NULL||head->next==NULL){
+            return nullptr;
         }
-        int cnt= 0;
-        while(temp){
-            cnt++;
-            temp = temp->next;
+        ListNode* slow = head;
+        ListNode* fast = head;
+        fast=fast->next;
+        while(fast->next!=NULL&&fast->next->next!=NULL){
+            fast = fast->next->next;
+            slow = slow->next;
         }
-        temp = head;
-        int res = cnt/2;
-        while(temp){
-            res--;
-            if(res==0){
-                break;
-            }
-            temp = temp->next;
-        }
-        ListNode* del = temp->next;
-        temp->next = temp->next->next;
+        ListNode* del = slow->next;
+        slow->next=slow->next->next;
         delete(del);
         return head;
+
+
+
+        // ListNode* temp = head;
+        // if(head==NULL || head->next==NULL){
+        //     return NULL;
+        // }
+        // int cnt= 0;
+        // while(temp){
+        //     cnt++;
+        //     temp = temp->next;
+        // }
+        // temp = head;
+        // int res = cnt/2;
+        // while(temp){
+        //     res--;
+        //     if(res==0){
+        //         break;
+        //     }
+        //     temp = temp->next;
+        // }
+        // ListNode* del = temp->next;
+        // temp->next = temp->next->next;
+        // delete(del);
+        // return head;
     }
 };
