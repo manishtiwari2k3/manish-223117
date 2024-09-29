@@ -29,7 +29,7 @@ public:
         //     if(res==1){
         //         break;
         //     }
-        //     temp = temp->next;
+        //     temp = temp->next;                      wrong
         // }
         // ListNode* del = temp->next;
         // temp->next = temp->next->next;
@@ -41,28 +41,49 @@ public:
 
 
 
-        ListNode* temp = head;
-        int cnt = 0;
-        while(temp){
-            cnt++;
-            temp = temp->next;
+        // ListNode* temp = head;
+        // int cnt = 0;
+        // while(temp){
+        //     cnt++;
+        //     temp = temp->next;
+        // }
+        // temp = head;
+        // if(cnt==n){
+        //     ListNode* newH = temp->next;
+        //     delete(head);
+        //     return newH;
+        // }
+        // int res = cnt-n;
+        // while(temp){
+        //     res--;
+        //     if(res==0){
+        //         break;
+        //     }
+        //     temp = temp->next;
+        // }
+        // ListNode* del = temp->next;
+        // temp->next = temp->next->next;
+        // delete(del);
+        // return head;
+
+
+        // optimal
+
+
+        ListNode * fast = head;
+        ListNode* slow = head;
+        for(int i=0;i<n;i++){
+            fast = fast->next;
         }
-        temp = head;
-        if(cnt==n){
-            ListNode* newH = temp->next;
-            delete(head);
-            return newH;
+        if(fast==NULL){
+            return head->next;
         }
-        int res = cnt-n;
-        while(temp){
-            res--;
-            if(res==0){
-                break;
-            }
-            temp = temp->next;
+        while(fast->next!=NULL){
+            fast=fast->next;
+            slow = slow->next;
         }
-        ListNode* del = temp->next;
-        temp->next = temp->next->next;
+        ListNode* del = slow->next;
+        slow->next = slow->next->next;
         delete(del);
         return head;
     }
