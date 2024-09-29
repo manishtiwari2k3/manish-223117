@@ -9,31 +9,27 @@ public:
 };
 
 class AllOne {
-private:
-    Node* head;                        // Dummy head
-    Node* tail;                        // Dummy tail
-    unordered_map<string, Node*> map;  // Mapping from key to its node
+public:
+    Node* head;                      
+    Node* tail;                       
+    unordered_map<string, Node*> map; 
 
 public:
-    // Initialize your data structure here.
     AllOne() {
-        head = new Node(0);  // Create dummy head
-        tail = new Node(0);  // Create dummy tail
-        head->next = tail;   // Link dummy head to dummy tail
-        tail->prev = head;   // Link dummy tail to dummy head
+        head = new Node(0);  
+        tail = new Node(0); 
+        head->next = tail;  
+        tail->prev = head;  
     }
 
-    // Inserts a new key <Key> with value 1. Or increments an existing key by 1.
     void inc(string key) {
         if (map.find(key) != map.end()) {
             Node* node = map[key];
             int freq = node->freq;
-            node->keys.erase(key);  // Remove key from current node
+            node->keys.erase(key);  
 
             Node* nextNode = node->next;
             if (nextNode == tail || nextNode->freq != freq + 1) {
-                // Create a new node if next node does not exist or freq is not
-                // freq + 1
                 Node* newNode = new Node(freq + 1);
                 newNode->keys.insert(key);
                 newNode->prev = node;
@@ -42,19 +38,16 @@ public:
                 nextNode->prev = newNode;
                 map[key] = newNode;
             } else {
-                // Increment the existing next node
                 nextNode->keys.insert(key);
                 map[key] = nextNode;
             }
 
-            // Remove the current node if it has no keys left
             if (node->keys.empty()) {
                 removeNode(node);
             }
-        } else {  // Key does not exist
+        } else {  
             Node* firstNode = head->next;
             if (firstNode == tail || firstNode->freq > 1) {
-                // Create a new node
                 Node* newNode = new Node(1);
                 newNode->keys.insert(key);
                 newNode->prev = head;
@@ -69,11 +62,9 @@ public:
         }
     }
 
-    // Decrements an existing key by 1. If Key's value is 1, remove it from the
-    // data structure.
     void dec(string key) {
         if (map.find(key) == map.end()) {
-            return;  // Key does not exist
+            return;  
         }
 
         Node* node = map[key];
@@ -81,13 +72,10 @@ public:
         int freq = node->freq;
 
         if (freq == 1) {
-            // Remove the key from the map if freq is 1
             map.erase(key);
         } else {
             Node* prevNode = node->prev;
             if (prevNode == head || prevNode->freq != freq - 1) {
-                // Create a new node if the previous node does not exist or freq
-                // is not freq - 1
                 Node* newNode = new Node(freq - 1);
                 newNode->keys.insert(key);
                 newNode->prev = prevNode;
@@ -96,35 +84,30 @@ public:
                 node->prev = newNode;
                 map[key] = newNode;
             } else {
-                // Decrement the existing previous node
                 prevNode->keys.insert(key);
                 map[key] = prevNode;
             }
         }
 
-        // Remove the node if it has no keys left
         if (node->keys.empty()) {
             removeNode(node);
         }
     }
 
-    // Returns one of the keys with maximal value.
     string getMaxKey() {
         if (tail->prev == head) {
-            return "";  // No keys exist
+            return ""; 
         }
-        return *(tail->prev->keys.begin());  // Return one of the keys from the
-                                             // tail's previous node
+        return *(tail->prev->keys.begin()); 
     }
 
-    // Returns one of the keys with minimal value.
     string getMinKey() {
         if (head->next == tail) {
-            return "";  // No keys exist
+            return ""; 
         }
         return *(
             head->next->keys
-                .begin());  // Return one of the keys from the head's next node
+                .begin()); 
     }
 
 private:
@@ -132,10 +115,10 @@ private:
         Node* prevNode = node->prev;
         Node* nextNode = node->next;
 
-        prevNode->next = nextNode;  // Link previous node to next node
-        nextNode->prev = prevNode;  // Link next node to previous node
+        prevNode->next = nextNode;
+        nextNode->prev = prevNode;
 
-        delete node;  // Free the memory of the removed node
+        delete node; 
     }
 };
 
