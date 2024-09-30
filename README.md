@@ -8,6 +8,7 @@
 | [0729-my-calendar-i](https://github.com/manishtiwari2k3/manish-223117/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/manishtiwari2k3/manish-223117/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/manishtiwari2k3/manish-223117/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1635-number-of-good-pairs](https://github.com/manishtiwari2k3/manish-223117/tree/master/1635-number-of-good-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/manishtiwari2k3/manish-223117/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/2755-extra-characters-in-a-string) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0234-palindrome-linked-list) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/manishtiwari2k3/manish-223117/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,6 +126,7 @@
 | [0729-my-calendar-i](https://github.com/manishtiwari2k3/manish-223117/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/manishtiwari2k3/manish-223117/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/manishtiwari2k3/manish-223117/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
 | ------- |
