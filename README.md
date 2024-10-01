@@ -21,6 +21,7 @@
 | [0141-linked-list-cycle](https://github.com/manishtiwari2k3/manish-223117/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0142-linked-list-cycle-ii) |
 | [0432-all-oone-data-structure](https://github.com/manishtiwari2k3/manish-223117/tree/master/0432-all-oone-data-structure) |
+| [1619-path-crossing](https://github.com/manishtiwari2k3/manish-223117/tree/master/1619-path-crossing) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/manishtiwari2k3/manish-223117/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/manishtiwari2k3/manish-223117/tree/master/1635-number-of-good-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/2755-extra-characters-in-a-string) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/manishtiwari2k3/manish-223117/tree/master/0214-shortest-palindrome) |
+| [1619-path-crossing](https://github.com/manishtiwari2k3/manish-223117/tree/master/1619-path-crossing) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/manishtiwari2k3/manish-223117/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/manishtiwari2k3/manish-223117/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
