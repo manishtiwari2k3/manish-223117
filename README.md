@@ -8,6 +8,7 @@
 | [0729-my-calendar-i](https://github.com/manishtiwari2k3/manish-223117/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/manishtiwari2k3/manish-223117/tree/master/0859-design-circular-deque) |
+| [1256-rank-transform-of-an-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/manishtiwari2k3/manish-223117/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/manishtiwari2k3/manish-223117/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/manishtiwari2k3/manish-223117/tree/master/1635-number-of-good-pairs) |
@@ -21,6 +22,7 @@
 | [0141-linked-list-cycle](https://github.com/manishtiwari2k3/manish-223117/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0142-linked-list-cycle-ii) |
 | [0432-all-oone-data-structure](https://github.com/manishtiwari2k3/manish-223117/tree/master/0432-all-oone-data-structure) |
+| [1256-rank-transform-of-an-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/1256-rank-transform-of-an-array) |
 | [1619-path-crossing](https://github.com/manishtiwari2k3/manish-223117/tree/master/1619-path-crossing) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/manishtiwari2k3/manish-223117/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/manishtiwari2k3/manish-223117/tree/master/1635-number-of-good-pairs) |
@@ -48,6 +50,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0148-sort-list) |
+| [1256-rank-transform-of-an-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/1256-rank-transform-of-an-array) |
 | [2756-buy-two-chocolates](https://github.com/manishtiwari2k3/manish-223117/tree/master/2756-buy-two-chocolates) |
 ## String
 |  |
