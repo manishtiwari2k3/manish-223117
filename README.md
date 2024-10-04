@@ -14,6 +14,7 @@
 | [1635-number-of-good-pairs](https://github.com/manishtiwari2k3/manish-223117/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/manishtiwari2k3/manish-223117/tree/master/1694-make-sum-divisible-by-p) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/manishtiwari2k3/manish-223117/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/manishtiwari2k3/manish-223117/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/2755-extra-characters-in-a-string) |
 | [2756-buy-two-chocolates](https://github.com/manishtiwari2k3/manish-223117/tree/master/2756-buy-two-chocolates) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/manishtiwari2k3/manish-223117/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -28,6 +29,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/manishtiwari2k3/manish-223117/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/manishtiwari2k3/manish-223117/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/manishtiwari2k3/manish-223117/tree/master/1694-make-sum-divisible-by-p) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/manishtiwari2k3/manish-223117/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/manishtiwari2k3/manish-223117/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Math
@@ -53,6 +55,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0148-sort-list) |
 | [1256-rank-transform-of-an-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/1256-rank-transform-of-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/manishtiwari2k3/manish-223117/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2756-buy-two-chocolates](https://github.com/manishtiwari2k3/manish-223117/tree/master/2756-buy-two-chocolates) |
 ## String
 |  |
@@ -98,6 +101,7 @@
 | [0234-palindrome-linked-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/manishtiwari2k3/manish-223117/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Recursion
 |  |
 | ------- |
