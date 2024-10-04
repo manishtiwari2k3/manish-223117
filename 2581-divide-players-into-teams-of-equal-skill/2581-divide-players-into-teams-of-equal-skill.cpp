@@ -21,34 +21,70 @@
 
 
 
+// class Solution {
+// public:
+//     long long dividePlayers(vector<int>& skill) {
+//         int n = skill.size();
+//         int totalSkill = 0;
+//         vector<int> skillFrequency(1001, 0);
+
+//         for (int playerSkill : skill) {
+//             totalSkill += playerSkill;
+//             skillFrequency[playerSkill]++;
+//         }
+
+//         if (totalSkill % (n / 2) != 0) {
+//             return -1;
+//         }
+
+//         int targetTeamSkill = totalSkill / (n / 2);
+//         long long totalChemistry = 0;
+//         for (int playerSkill : skill) {
+//             int partnerSkill = targetTeamSkill - playerSkill;
+
+//             if (skillFrequency[partnerSkill] == 0) {
+//                 return -1;
+//             }
+
+//             totalChemistry += (long long)playerSkill * (long long)partnerSkill;
+//             skillFrequency[partnerSkill]--;
+//         }
+//         return totalChemistry / 2;
+//     }
+// };
+
+
 class Solution {
 public:
     long long dividePlayers(vector<int>& skill) {
         int n = skill.size();
         int totalSkill = 0;
-        vector<int> skillFrequency(1001, 0);
+        unordered_map<int, int> skillMap;
 
-        for (int playerSkill : skill) {
-            totalSkill += playerSkill;
-            skillFrequency[playerSkill]++;
+        for (int s : skill) {
+            totalSkill += s;
+            skillMap[s] = skillMap[s] + 1;
         }
 
         if (totalSkill % (n / 2) != 0) {
             return -1;
         }
 
-        int targetTeamSkill = totalSkill / (n / 2);
+        int targetSkill = totalSkill / (n / 2);
         long long totalChemistry = 0;
-        for (int playerSkill : skill) {
-            int partnerSkill = targetTeamSkill - playerSkill;
 
-            if (skillFrequency[partnerSkill] == 0) {
+        for (auto& [currSkill, currFreq] : skillMap) {
+            int partnerSkill = targetSkill - currSkill;
+
+            if (skillMap.find(partnerSkill) == skillMap.end() ||
+                currFreq != skillMap[partnerSkill]) {
                 return -1;
             }
 
-            totalChemistry += (long long)playerSkill * (long long)partnerSkill;
-            skillFrequency[partnerSkill]--;
+            totalChemistry += (long long)currSkill * (long long)partnerSkill *
+                              (long long)currFreq;
         }
+
         return totalChemistry / 2;
     }
 };
