@@ -15,6 +15,7 @@
 | [1635-number-of-good-pairs](https://github.com/manishtiwari2k3/manish-223117/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/manishtiwari2k3/manish-223117/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/manishtiwari2k3/manish-223117/tree/master/1923-sentence-similarity-iii) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/manishtiwari2k3/manish-223117/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/manishtiwari2k3/manish-223117/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/manishtiwari2k3/manish-223117/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/2755-extra-characters-in-a-string) |
@@ -32,6 +33,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/manishtiwari2k3/manish-223117/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/manishtiwari2k3/manish-223117/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/manishtiwari2k3/manish-223117/tree/master/1694-make-sum-divisible-by-p) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/manishtiwari2k3/manish-223117/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/manishtiwari2k3/manish-223117/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/manishtiwari2k3/manish-223117/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -198,4 +200,8 @@
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/manishtiwari2k3/manish-223117/tree/master/1002-maximum-width-ramp) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/manishtiwari2k3/manish-223117/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 <!---LeetCode Topics End-->
