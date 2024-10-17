@@ -44,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/manishtiwari2k3/manish-223117/tree/master/0050-powx-n) |
 | [1635-number-of-good-pairs](https://github.com/manishtiwari2k3/manish-223117/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -137,6 +138,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/manishtiwari2k3/manish-223117/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0234-palindrome-linked-list) |
 ## Depth-First Search
