@@ -45,6 +45,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/manishtiwari2k3/manish-223117/tree/master/0050-powx-n) |
 | [0670-maximum-swap](https://github.com/manishtiwari2k3/manish-223117/tree/master/0670-maximum-swap) |
 | [1635-number-of-good-pairs](https://github.com/manishtiwari2k3/manish-223117/tree/master/1635-number-of-good-pairs) |
