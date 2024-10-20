@@ -88,6 +88,7 @@
 | [0214-shortest-palindrome](https://github.com/manishtiwari2k3/manish-223117/tree/master/0214-shortest-palindrome) |
 | [0567-permutation-in-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/manishtiwari2k3/manish-223117/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1197-parsing-a-boolean-expression](https://github.com/manishtiwari2k3/manish-223117/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/1304-longest-happy-string) |
 | [1619-path-crossing](https://github.com/manishtiwari2k3/manish-223117/tree/master/1619-path-crossing) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -146,6 +147,7 @@
 | [0050-powx-n](https://github.com/manishtiwari2k3/manish-223117/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0234-palindrome-linked-list) |
+| [1197-parsing-a-boolean-expression](https://github.com/manishtiwari2k3/manish-223117/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Depth-First Search
 |  |
@@ -169,6 +171,7 @@
 | [0234-palindrome-linked-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/manishtiwari2k3/manish-223117/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/manishtiwari2k3/manish-223117/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/manishtiwari2k3/manish-223117/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/manishtiwari2k3/manish-223117/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manishtiwari2k3/manish-223117/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/manishtiwari2k3/manish-223117/tree/master/2800-minimum-string-length-after-removing-substrings) |
