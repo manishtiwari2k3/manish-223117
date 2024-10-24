@@ -157,6 +157,7 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/manishtiwari2k3/manish-223117/tree/master/0386-lexicographical-numbers) |
+| [0988-flip-equivalent-binary-trees](https://github.com/manishtiwari2k3/manish-223117/tree/master/0988-flip-equivalent-binary-trees) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
 |  |
@@ -258,6 +259,7 @@
 ## Tree
 |  |
 | ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/manishtiwari2k3/manish-223117/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/manishtiwari2k3/manish-223117/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -268,6 +270,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/manishtiwari2k3/manish-223117/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/manishtiwari2k3/manish-223117/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/2677-cousins-in-binary-tree-ii) |
 <!---LeetCode Topics End-->
