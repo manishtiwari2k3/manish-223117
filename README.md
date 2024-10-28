@@ -54,6 +54,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/manishtiwari2k3/manish-223117/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/manishtiwari2k3/manish-223117/tree/master/0231-power-of-two) |
 | [0670-maximum-swap](https://github.com/manishtiwari2k3/manish-223117/tree/master/0670-maximum-swap) |
 | [1635-number-of-good-pairs](https://github.com/manishtiwari2k3/manish-223117/tree/master/1635-number-of-good-pairs) |
 ## Counting
@@ -157,6 +158,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/manishtiwari2k3/manish-223117/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/manishtiwari2k3/manish-223117/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0234-palindrome-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/manishtiwari2k3/manish-223117/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -264,6 +266,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/manishtiwari2k3/manish-223117/tree/master/0231-power-of-two) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/manishtiwari2k3/manish-223117/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
