@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/manishtiwari2k3/manish-223117/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/manishtiwari2k3/manish-223117/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/manishtiwari2k3/manish-223117/tree/master/0231-power-of-two) |
 | [0670-maximum-swap](https://github.com/manishtiwari2k3/manish-223117/tree/master/0670-maximum-swap) |
@@ -266,6 +267,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/manishtiwari2k3/manish-223117/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/manishtiwari2k3/manish-223117/tree/master/0231-power-of-two) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/manishtiwari2k3/manish-223117/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
