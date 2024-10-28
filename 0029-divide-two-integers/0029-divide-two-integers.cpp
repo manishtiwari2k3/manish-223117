@@ -29,7 +29,7 @@ public:
         }
         long n = abs(dividend);
         long d = abs(divisor);
-        divisor = abs(divisor);
+        // divisor = abs(divisor);
         long quotient = 0;
         while(n>=d){
             int cnt = 0;
