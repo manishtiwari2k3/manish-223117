@@ -5,7 +5,7 @@ public:
 
         vector<int> lisLength(N, 1);
         vector<int> ldsLength(N, 1);
-        for (int i = 1; i < N; i++) {
+        for (int i = 0; i < N; i++) {
             for (int j = i - 1; j >= 0; j--) {
                 if (nums[i] > nums[j]) {
                     lisLength[i] = max(lisLength[i], lisLength[j] + 1);
