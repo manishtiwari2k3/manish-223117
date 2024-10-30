@@ -3,7 +3,7 @@ public:
     int minimumMountainRemovals(vector<int>& nums) {
         int N = nums.size();
 
-        vector<int> lisLength(N, 1);
+        vector<int> lisLength(N , 1);
         vector<int> ldsLength(N, 1);
         for (int i = 0; i < N; i++) {
             for (int j = i - 1; j >= 0; j--) {
