@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/0136-single-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/manishtiwari2k3/manish-223117/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/manishtiwari2k3/manish-223117/tree/master/0643-maximum-average-subarray-i) |
 | [0729-my-calendar-i](https://github.com/manishtiwari2k3/manish-223117/tree/master/0729-my-calendar-i) |
@@ -277,6 +278,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/manishtiwari2k3/manish-223117/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/manishtiwari2k3/manish-223117/tree/master/0231-power-of-two) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/manishtiwari2k3/manish-223117/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/2323-minimum-bit-flips-to-convert-number) |
