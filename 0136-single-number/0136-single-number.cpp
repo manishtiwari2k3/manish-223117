@@ -1,15 +1,25 @@
+// class Solution {
+// public:
+//     int singleNumber(vector<int>& nums) {
+//         map<int,int> mpp;
+//         for(int i=0;i<nums.size();i++){
+//             mpp[nums[i]]++;
+//         }
+//         for(auto it:mpp){
+//             if(it.second == 1){
+//                 return it.first;
+//             }
+//         }
+//         return -1;
+//     }
+// };
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        map<int,int> mpp;
+        int a = 0;
         for(int i=0;i<nums.size();i++){
-            mpp[nums[i]]++;
+            a = a ^ nums[i];
         }
-        for(auto it:mpp){
-            if(it.second == 1){
-                return it.first;
-            }
-        }
-        return -1;
+        return a;
     }
 };
