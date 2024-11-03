@@ -104,6 +104,7 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/manishtiwari2k3/manish-223117/tree/master/0214-shortest-palindrome) |
 | [0567-permutation-in-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/manishtiwari2k3/manish-223117/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/manishtiwari2k3/manish-223117/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/manishtiwari2k3/manish-223117/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
