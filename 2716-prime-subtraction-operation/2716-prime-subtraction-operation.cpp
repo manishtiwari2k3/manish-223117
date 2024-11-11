@@ -10,7 +10,7 @@ public:
     }
     bool primeSubOperation(vector<int>& nums) {
         for (int i = 0; i < nums.size(); i++) {
-            int bound = 0;
+            int bound ;
             if (i == 0) {
                 bound = nums[0];
             } else {
