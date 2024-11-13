@@ -33,7 +33,7 @@ public:
         return lower_bound(nums, upper + 1) - lower_bound(nums, lower);
     }
 
-private:
+public:
     long long lower_bound(vector<int>& nums, int value) {
         int left = 0, right = nums.size() - 1;
         long long result = 0;
