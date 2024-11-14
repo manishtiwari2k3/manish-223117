@@ -41,7 +41,7 @@
 class Solution {
 public:
     int minimizedMaximum(int n, vector<int>& quantities) {
-        int m = quantities.size()
+        int m = quantities.size();
         auto compareTypeStorePairs = [](pair<int, int>& a, pair<int, int>& b) {
             return (long long)a.first * b.second <
                    (long long)a.second * b.first;
