@@ -1,7 +1,7 @@
 class Solution {
 public:
     int findLengthOfShortestSubarray(vector<int>& arr) {
-        int right = arr.size() - 1;
+        int right = arr.size() - 1 ;
         while (right > 0 && arr[right] >= arr[right - 1]) {
             right--;
         }
