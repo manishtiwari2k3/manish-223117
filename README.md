@@ -6,6 +6,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manishtiwari2k3/manish-223117/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/0136-single-number) |
+| [0239-sliding-window-maximum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/manishtiwari2k3/manish-223117/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/manishtiwari2k3/manish-223117/tree/master/0643-maximum-average-subarray-i) |
 | [0729-my-calendar-i](https://github.com/manishtiwari2k3/manish-223117/tree/master/0729-my-calendar-i) |
@@ -84,6 +85,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/manishtiwari2k3/manish-223117/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/manishtiwari2k3/manish-223117/tree/master/0643-maximum-average-subarray-i) |
@@ -282,6 +284,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/manishtiwari2k3/manish-223117/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/manishtiwari2k3/manish-223117/tree/master/0859-design-circular-deque) |
 ## Doubly-Linked List
 |  |
@@ -309,6 +312,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/manishtiwari2k3/manish-223117/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/manishtiwari2k3/manish-223117/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -365,4 +369,8 @@
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/manishtiwari2k3/manish-223117/tree/master/2716-prime-subtraction-operation) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
