@@ -19,6 +19,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/manishtiwari2k3/manish-223117/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/manishtiwari2k3/manish-223117/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1370-count-number-of-nice-subarrays](https://github.com/manishtiwari2k3/manish-223117/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/manishtiwari2k3/manish-223117/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/manishtiwari2k3/manish-223117/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/manishtiwari2k3/manish-223117/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -66,6 +67,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0966-binary-subarrays-with-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/manishtiwari2k3/manish-223117/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/1256-rank-transform-of-an-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/manishtiwari2k3/manish-223117/tree/master/1370-count-number-of-nice-subarrays) |
 | [1619-path-crossing](https://github.com/manishtiwari2k3/manish-223117/tree/master/1619-path-crossing) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/manishtiwari2k3/manish-223117/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/manishtiwari2k3/manish-223117/tree/master/1635-number-of-good-pairs) |
@@ -88,6 +90,7 @@
 | [0050-powx-n](https://github.com/manishtiwari2k3/manish-223117/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/manishtiwari2k3/manish-223117/tree/master/0231-power-of-two) |
 | [0670-maximum-swap](https://github.com/manishtiwari2k3/manish-223117/tree/master/0670-maximum-swap) |
+| [1370-count-number-of-nice-subarrays](https://github.com/manishtiwari2k3/manish-223117/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/manishtiwari2k3/manish-223117/tree/master/1635-number-of-good-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/manishtiwari2k3/manish-223117/tree/master/2716-prime-subtraction-operation) |
 ## Counting
@@ -109,6 +112,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/manishtiwari2k3/manish-223117/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/manishtiwari2k3/manish-223117/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/manishtiwari2k3/manish-223117/tree/master/1370-count-number-of-nice-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/manishtiwari2k3/manish-223117/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/manishtiwari2k3/manish-223117/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/manishtiwari2k3/manish-223117/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -310,6 +314,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/manishtiwari2k3/manish-223117/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/manishtiwari2k3/manish-223117/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/manishtiwari2k3/manish-223117/tree/master/1370-count-number-of-nice-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/manishtiwari2k3/manish-223117/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/manishtiwari2k3/manish-223117/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/manishtiwari2k3/manish-223117/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
