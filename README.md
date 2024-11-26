@@ -430,4 +430,8 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/manishtiwari2k3/manish-223117/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
