@@ -6,7 +6,7 @@ public:
             indegree[edge[1]]++;
         }
 
-        int champ = -1, champCount = 0;
+        int champ = 0, champCount = 0;
         for (int i = 0; i < n; i++) {
             if (indegree[i] == 0) {
                 champCount++;
