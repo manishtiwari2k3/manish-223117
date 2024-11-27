@@ -11,7 +11,7 @@ public:
         int layersExplored = 0;
 
         while (!nodeQueue.empty()) {
-            for (int i = 0; i < currentLayerNodeCount; ++i) {
+            for (int i = 1; i < currentLayerNodeCount; ++i) {
                 int currentNode = nodeQueue.front();
                 nodeQueue.pop();
 
