@@ -19,7 +19,7 @@ public:
             pq.pop();
             int obstacles = current[0], row = current[1], col = current[2];
 
-            if (row == m - 1 && col == n - 1) {
+            if (row == m  && col == n - 1) {
                 return obstacles;
             }
 
