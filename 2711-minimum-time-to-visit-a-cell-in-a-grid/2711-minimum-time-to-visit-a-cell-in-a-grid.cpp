@@ -33,7 +33,7 @@ public:
                 }
 
                 int waitTime =
-                    ((grid[nextRow][nextCol] - time) % 2 != 0) ? 0 : 1;
+                    ((grid[nextRow][nextCol] - time) % 2 == 0) ? 1 : 0;
                 int nextTime = max(grid[nextRow][nextCol] + waitTime, time + 1);
                 pq.push({nextTime, nextRow, nextCol});
             }
