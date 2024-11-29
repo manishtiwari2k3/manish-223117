@@ -41,7 +41,7 @@ public:
         return -1;
     }
 
-private:
+public:
     bool isValid(vector<vector<bool>>& visited, int row, int col) {
         return row >= 0 && col >= 0 && row < visited.size() &&
                col < visited[0].size() && !visited[row][col];
