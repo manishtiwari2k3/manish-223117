@@ -1,17 +1,38 @@
+// class Solution {
+// public:
+//     string addSpaces(string s, vector<int>& spaces) {
+//         stringstream result;
+//         int spaceIndex = 0;
+
+//         for (int stringIndex = 0; stringIndex < s.size(); ++stringIndex) {
+//             if (spaceIndex < spaces.size() &&
+//                 stringIndex == spaces[spaceIndex]) {
+//                 result << ' ';
+//                 ++spaceIndex;
+//             }
+//             result << s[stringIndex];
+//         }
+//         return result.str();
+//     }
+// };
+
+
 class Solution {
 public:
     string addSpaces(string s, vector<int>& spaces) {
-        stringstream result;
-        int spaceIndex = 0;
+        string result;
+        result.reserve(s.size() + spaces.size());
 
+        int spaceIndex = 0;
         for (int stringIndex = 0; stringIndex < s.size(); ++stringIndex) {
             if (spaceIndex < spaces.size() &&
                 stringIndex == spaces[spaceIndex]) {
-                result << ' ';
+                result += ' ';
                 ++spaceIndex;
             }
-            result << s[stringIndex];
+            result += s[stringIndex];
         }
-        return result.str();
+
+        return result;
     }
 };
