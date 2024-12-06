@@ -187,6 +187,7 @@
 | [1923-sentence-similarity-iii](https://github.com/manishtiwari2k3/manish-223117/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manishtiwari2k3/manish-223117/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/manishtiwari2k3/manish-223117/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/manishtiwari2k3/manish-223117/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/manishtiwari2k3/manish-223117/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -244,6 +245,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manishtiwari2k3/manish-223117/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/manishtiwari2k3/manish-223117/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/manishtiwari2k3/manish-223117/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/manishtiwari2k3/manish-223117/tree/master/2699-count-the-number-of-fair-pairs) |
