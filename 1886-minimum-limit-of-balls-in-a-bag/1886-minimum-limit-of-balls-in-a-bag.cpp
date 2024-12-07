@@ -22,7 +22,7 @@ public:
         return left;
     }
 
-private:
+public:
     bool isPossible(int maxBallsInBag, vector<int>& nums, int maxOperations) {
         int totalOperations = 0;
 
