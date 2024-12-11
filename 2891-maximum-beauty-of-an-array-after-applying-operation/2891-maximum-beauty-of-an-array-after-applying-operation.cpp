@@ -11,7 +11,7 @@ public:
         return maxBeauty;
     }
 
-private:
+public:
     int findUpperBound(vector<int>& arr, int val) {
         int low = 0, high = arr.size() - 1, result = 0;
 
