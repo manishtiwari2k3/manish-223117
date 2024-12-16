@@ -1,44 +1,44 @@
-// class Solution {
-// public:
-//     vector<int> getFinalState(vector<int>& nums, int k, int multiplier) {
-//         int n = nums.size();
-
-//         while (k--) {
-//             int minIndex = 0;
-//             for (int i = 0; i < n; i++) {
-//                 if (nums[i] < nums[minIndex]) {
-//                     minIndex = i;
-//                 }
-//             }
-
-//             nums[minIndex] *= multiplier;
-//         }
-
-//         return nums;
-//     }
-// };
-
-
 class Solution {
 public:
     vector<int> getFinalState(vector<int>& nums, int k, int multiplier) {
-        vector<pair<int, int>> heap;
-        for (int i = 0; i < nums.size(); i++) {
-            heap.push_back({nums[i], i});
-        }
-
-        make_heap(heap.begin(), heap.end(), greater<>());
+        int n = nums.size();
 
         while (k--) {
-            pop_heap(heap.begin(), heap.end(), greater<>());
-            auto [value, i] = heap.back();
-            heap.pop_back();
+            int minIndex = 0;
+            for (int i = 0; i < n; i++) {
+                if (nums[i] < nums[minIndex]) {
+                    minIndex = i;
+                }
+            }
 
-            nums[i] *= multiplier;
-            heap.push_back({nums[i], i});
-            push_heap(heap.begin(), heap.end(), greater<>());
+            nums[minIndex] *= multiplier;
         }
 
         return nums;
     }
 };
+
+
+// class Solution {
+// public:
+//     vector<int> getFinalState(vector<int>& nums, int k, int multiplier) {
+//         vector<pair<int, int>> heap;
+//         for (int i = 0; i < nums.size(); i++) {
+//             heap.push_back({nums[i], i});
+//         }
+
+//         make_heap(heap.begin(), heap.end(), greater<>());
+
+//         while (k--) {
+//             pop_heap(heap.begin(), heap.end(), greater<>());
+//             auto [value, i] = heap.back();
+//             heap.pop_back();
+
+//             nums[i] *= multiplier;
+//             heap.push_back({nums[i], i});
+//             push_heap(heap.begin(), heap.end(), greater<>());
+//         }
+
+//         return nums;
+//     }
+// };
