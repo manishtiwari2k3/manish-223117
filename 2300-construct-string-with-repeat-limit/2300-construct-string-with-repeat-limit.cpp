@@ -7,7 +7,7 @@ public:
         }
 
         string result;
-        int currentCharIndex = 25;  // Start from the largest character
+        int currentCharIndex = 25;  
         while (currentCharIndex >= 0) {
             if (freq[currentCharIndex] == 0) {
                 currentCharIndex--;
@@ -19,7 +19,7 @@ public:
             freq[currentCharIndex] -= use;
 
             if (freq[currentCharIndex] >
-                0) {  // Need to add a smaller character
+                0) { 
                 int smallerCharIndex = currentCharIndex - 1;
                 while (smallerCharIndex >= 0 && freq[smallerCharIndex] == 0) {
                     smallerCharIndex--;
