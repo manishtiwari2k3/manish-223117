@@ -10,7 +10,6 @@ private:
         if (leftChild == nullptr || rightChild == nullptr) {
             return;
         }
-        // If the current level is odd, swap the values of the children.
         if (level % 2 == 0) {
             int temp = leftChild->val;
             leftChild->val = rightChild->val;
