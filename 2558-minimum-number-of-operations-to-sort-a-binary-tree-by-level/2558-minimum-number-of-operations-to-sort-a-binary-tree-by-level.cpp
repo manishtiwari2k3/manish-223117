@@ -22,7 +22,7 @@ public:
         return totalSwaps;
     }
 
-private:
+public:
     int getMinSwaps(vector<int>& original) {
         int swaps = 0;
         vector<int> target = original;
