@@ -24,8 +24,7 @@ public:
 
         return indices;
     }
-
-private:
+public:
     int dp(vector<int>& sums, int k, int idx, int rem,
            vector<vector<int>>& memo) {
         if (rem == 0) return 0;
