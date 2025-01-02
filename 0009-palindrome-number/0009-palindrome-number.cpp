@@ -1,43 +1,19 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        long n = 0;
-        long originalX = x;
-        if(x==0){
-            return true;
-        }
-        if(x<0 || (x%10==0 && x!=0)){
+        int temp = x;
+        long ans = 0;
+        if(temp<0){
             return false;
         }
-        while(x>0){
-            n = (n*10)+(x%10);
-            x = x/10;
+        while(temp){
+            int digit = temp%10;
+            ans = ans*10+digit;
+            temp=temp/10;
         }
-        if(n==originalX){
+        if(ans==x){
             return true;
         }
-        return false;
+    return false;
     }
 };
-
-// class Solution {
-// public:
-//     bool isPalindrome(int x) {
-//         int n = 0;
-//         int orN = x;
-//         if(x<0){
-//             x = x*(-1);
-//         }
-//         while(x){
-//             n = (n*10)+(x%10);
-//             x = x/10;
-//         }
-//         if(x<0){
-//             n = n*(-1);
-//         }
-//         if(n!=orN){
-//             return false;
-//         }
-//         return true;
-//     }
-// };
