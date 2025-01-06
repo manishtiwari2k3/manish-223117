@@ -6,6 +6,9 @@ public:
         vector <int> upper(26,0);
         int count = 0;
         int odd = 0;
+
+        // frequency
+
         for(int i=0;i<n;i++){
             if(s[i]>='a'){
                 lower[s[i]-'a']++;
@@ -15,7 +18,8 @@ public:
             }
         }
 
-        // 
+        // increasing count
+
         for(int i=0;i<26;i++){
             if(lower[i]%2==0){
                 count = count+lower[i];
@@ -31,10 +35,7 @@ public:
                 odd = 1;
                 count = count+upper[i]-1;
             }
-          }   
-        //   if(odd=1){
-        //     count++;
-        //   }
-    return count+odd;
+        }
+        return count+odd;
     }
 };
