@@ -53,13 +53,11 @@ public:
             for (int otherWordIndex = 0; otherWordIndex < words.size();
                  otherWordIndex++) {
                 if (currentWordIndex == otherWordIndex)
-                    continue;  // Skip comparing the word with itself.
-
-                // Check if the current word is a substring of another word.
+                    continue;  
                 if (isSubstringOf(words[currentWordIndex],
                                   words[otherWordIndex], lps)) {
                     matchingWords.push_back(words[currentWordIndex]);
-                    break;  // No need to check further for this word.
+                    break;  
                 }
             }
         }
@@ -68,8 +66,6 @@ public:
     }
 
 private:
-    // Function to compute the LPS (Longest Prefix Suffix) array for the
-    // substring `sub`.
     vector<int> computeLPSArray(string &sub) {
         vector<int> lps(sub.size(), 0);  // Initialize the LPS array with 0.
         int currentIndex = 1;            // Start from the second character.
@@ -113,6 +109,6 @@ private:
                 }
             }
         }
-        return false;  // No match found.
+        return false;  
     }
 };
