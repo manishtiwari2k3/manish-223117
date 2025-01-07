@@ -49,7 +49,6 @@ public:
         for (int currentWordIndex = 0; currentWordIndex < words.size();
              currentWordIndex++) {
             vector<int> lps = computeLPSArray(words[currentWordIndex]);
-            // Compare the current word with all other words.
             for (int otherWordIndex = 0; otherWordIndex < words.size();
                  otherWordIndex++) {
                 if (currentWordIndex == otherWordIndex)
@@ -67,20 +66,18 @@ public:
 
 private:
     vector<int> computeLPSArray(string &sub) {
-        vector<int> lps(sub.size(), 0);  // Initialize the LPS array with 0.
-        int currentIndex = 1;            // Start from the second character.
-        // Length of the current longest prefix which is also a suffix.
+        vector<int> lps(sub.size(), 0); 
+        int currentIndex = 1;            
         int len = 0;
 
         while (currentIndex < sub.size()) {
             if (sub[currentIndex] == sub[len]) {
-                len++;  // If the current characters match, extend the prefix.
-                lps[currentIndex] = len;  // Store the length of the prefix.
+                len++;  
+                lps[currentIndex] = len; 
                 currentIndex++;
             } else {
                 if (len > 0) {
-                    len = lps[len - 1];  // Backtrack using LPS array to find a
-                                         // shorter match.
+                    len = lps[len - 1];  
                 } else {
                     currentIndex++;
                 }
@@ -88,11 +85,8 @@ private:
         }
         return lps;
     }
-
-    // Function to check if `sub` is a substring of `main` using the KMP
-    // algorithm.
     bool isSubstringOf(string &sub, string &main, vector<int> &lps) {
-        int mainIndex = 0;  // Pointer for `main`.
+        int mainIndex = 0;  
         int subIndex = 0; 
 
         while (mainIndex < main.size()) {
