@@ -93,16 +93,15 @@ private:
     // algorithm.
     bool isSubstringOf(string &sub, string &main, vector<int> &lps) {
         int mainIndex = 0;  // Pointer for `main`.
-        int subIndex = 0;   // Pointer for `sub`.
+        int subIndex = 0; 
 
         while (mainIndex < main.size()) {
             if (main[mainIndex] == sub[subIndex]) {
                 subIndex++;
                 mainIndex++;
-                if (subIndex == sub.size()) return true;  // Found a match.
+                if (subIndex == sub.size()) return true;  
             } else {
                 if (subIndex > 0) {
-                    // Use the LPS to skip unnecessary comparisons.
                     subIndex = lps[subIndex - 1];
                 } else {
                     mainIndex++;
