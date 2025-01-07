@@ -26,6 +26,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/manishtiwari2k3/manish-223117/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/manishtiwari2k3/manish-223117/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/manishtiwari2k3/manish-223117/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1524-string-matching-in-an-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/manishtiwari2k3/manish-223117/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/manishtiwari2k3/manish-223117/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/manishtiwari2k3/manish-223117/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -218,6 +219,7 @@
 | [1304-longest-happy-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/manishtiwari2k3/manish-223117/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manishtiwari2k3/manish-223117/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1524-string-matching-in-an-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/manishtiwari2k3/manish-223117/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1619-path-crossing](https://github.com/manishtiwari2k3/manish-223117/tree/master/1619-path-crossing) |
@@ -252,6 +254,7 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/manishtiwari2k3/manish-223117/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/manishtiwari2k3/manish-223117/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Function
 |  |
