@@ -39,8 +39,6 @@ public:
     Node* root;
 
     Trie() { root = new Node(); }
-
-    // Insert a word into the Trie
     void insert(string& word) {
         Node* node = root;
         for (char c : word) {
@@ -51,7 +49,6 @@ public:
         }
     }
 
-    // Check if the Trie contains a given prefix
     bool startsWith(string& prefix) {
         Node* node = root;
         for (char c : prefix) {
