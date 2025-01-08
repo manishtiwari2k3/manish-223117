@@ -70,11 +70,9 @@ public:
         int n = words.size();
         int count = 0;
 
-        // Step 1: Iterate over each word
         for (int i = 0; i < n; i++) {
             Trie prefixTrie, suffixTrie;
 
-            // Step 2: Insert the current word into the prefix Trie
             prefixTrie.insert(words[i]);
 
             string revWord = words[i];
