@@ -9,10 +9,8 @@ public:
     }
 
 private:
-    // Returns 1 if str has pref as prefix, 0 otherwise
     int hasPrefix(string& str, string& pref) {
         int itr;
-        // Compare characters until we reach the end of either string
         for (itr = 0; itr < str.length() && itr < pref.length(); itr++) {
             if (str[itr] != pref[itr]) {
                 return 0; 
