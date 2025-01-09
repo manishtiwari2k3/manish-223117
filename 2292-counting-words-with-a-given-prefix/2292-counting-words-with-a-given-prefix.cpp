@@ -30,7 +30,7 @@ public:
         int count = 0;
         for (string& word : words) {
             if (word.find(pref) == 0) {
-                count++;  // Found a string with pref as prefix
+                count++; 
             }
         }
         return count;
