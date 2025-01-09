@@ -15,13 +15,12 @@ private:
         // Compare characters until we reach the end of either string
         for (itr = 0; itr < str.length() && itr < pref.length(); itr++) {
             if (str[itr] != pref[itr]) {
-                return 0;  // Mismatch found
+                return 0; 
             }
         }
 
-        // Check if we've matched the entire prefix
         if (itr != pref.length()) {
-            return 0;  // str is shorter than pref
+            return 0;  
         }
         return 1;
     }
