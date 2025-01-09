@@ -74,20 +74,19 @@ private:
                     curr->links[c - 'a'] = new Node();
                 }
                 curr = curr->links[c - 'a'];
-                curr->count++;  // Increment count for this prefix
+                curr->count++;  
             }
         }
 
-        // Return count of strings having pref as prefix
         int countPrefix(string& pref) {
             Node* curr = root;
             for (char c : pref) {
                 if (curr->links[c - 'a'] == nullptr) {
-                    return 0;  // Prefix not found
+                    return 0; 
                 }
                 curr = curr->links[c - 'a'];
             }
-            return curr->count;  // Return count at last node
+            return curr->count;  
         }
     };
 };
