@@ -51,11 +51,8 @@ public:
 
 private:
     class Trie {
-        // Node class represents each character in Trie
         struct Node {
-            // Links to child nodes
             vector<Node*> links;
-            // Number of strings having prefix till this node
             int count;
 
             Node() : links(26, nullptr), count(0) {}
@@ -66,7 +63,6 @@ private:
     public:
         Trie() { root = new Node(); }
 
-        // Add word to trie and update prefix counts
         void addWord(string& word) {
             Node* curr = root;
             for (char c : word) {
