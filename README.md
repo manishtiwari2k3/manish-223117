@@ -102,6 +102,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/manishtiwari2k3/manish-223117/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manishtiwari2k3/manish-223117/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/manishtiwari2k3/manish-223117/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-construct-k-palindrome-strings](https://github.com/manishtiwari2k3/manish-223117/tree/master/1502-construct-k-palindrome-strings) |
 | [1619-path-crossing](https://github.com/manishtiwari2k3/manish-223117/tree/master/1619-path-crossing) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/manishtiwari2k3/manish-223117/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/manishtiwari2k3/manish-223117/tree/master/1635-number-of-good-pairs) |
@@ -138,6 +139,7 @@
 ## Counting
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/manishtiwari2k3/manish-223117/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/manishtiwari2k3/manish-223117/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/manishtiwari2k3/manish-223117/tree/master/1635-number-of-good-pairs) |
 | [2300-construct-string-with-repeat-limit](https://github.com/manishtiwari2k3/manish-223117/tree/master/2300-construct-string-with-repeat-limit) |
@@ -176,6 +178,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/manishtiwari2k3/manish-223117/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/manishtiwari2k3/manish-223117/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/1304-longest-happy-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/manishtiwari2k3/manish-223117/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/manishtiwari2k3/manish-223117/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/manishtiwari2k3/manish-223117/tree/master/2089-maximum-matrix-sum) |
@@ -226,6 +229,7 @@
 | [1304-longest-happy-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/manishtiwari2k3/manish-223117/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manishtiwari2k3/manish-223117/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1502-construct-k-palindrome-strings](https://github.com/manishtiwari2k3/manish-223117/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/manishtiwari2k3/manish-223117/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
