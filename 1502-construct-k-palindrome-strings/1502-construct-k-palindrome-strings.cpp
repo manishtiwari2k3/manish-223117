@@ -34,11 +34,8 @@ public:
         for (char chr : s) {
             oddCount ^= 1 << (chr - 'a');
         }
-
-        // Count the number of set bits in the bitmask
         int setBits = __builtin_popcount(oddCount);
 
-        // Return if the number of odd frequencies is less than or equal to k
         return setBits <= k;
     }
 };
