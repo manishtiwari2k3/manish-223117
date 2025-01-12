@@ -43,7 +43,6 @@ class Solution {
 public:
     bool canBeValid(string s, string locked) {
         int length = s.size();
-        // If length of string is odd, return false.
         if (length % 2 == 1) {
             return false;
         }
