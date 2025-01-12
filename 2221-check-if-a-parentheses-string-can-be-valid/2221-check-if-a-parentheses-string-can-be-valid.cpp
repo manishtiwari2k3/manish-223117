@@ -64,7 +64,6 @@ public:
                 }
             }
         }
-        // Match remaining open brackets with unlocked characters.
         int balance = 0;
         for (int i = length - 1; i >= 0; i--) {
             if (locked[i] == '0') {
