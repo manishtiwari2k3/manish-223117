@@ -2,14 +2,12 @@ class Solution {
 public:
     bool canBeValid(string s, string locked) {
         int length = s.size();
-        // If length of string is odd, return false.
         if (length % 2 == 1) {
             return false;
         }
 
         stack<int> openBrackets, unlocked;
 
-        // Iterate through the string to handle '(' and ')'
         for (int i = 0; i < length; i++) {
             if (locked[i] == '0') {
                 unlocked.push(i);
