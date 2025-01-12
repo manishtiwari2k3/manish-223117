@@ -48,7 +48,6 @@ public:
             return false;
         }
         int openBrackets = 0, unlocked = 0;
-        // Iterate through the string to handle '(' and ')'.
         for (int i = 0; i < length; i++) {
             if (locked[i] == '0') {
                 unlocked++;
