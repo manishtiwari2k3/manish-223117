@@ -1,7 +1,6 @@
 class Solution {
 public:
     int minimumLength(string s) {
-        // Step 1: Count the frequency of each character in the string
         unordered_map<char, int> charFrequencyMap;
         for (char currentChar : s) {
             charFrequencyMap[currentChar]++;
