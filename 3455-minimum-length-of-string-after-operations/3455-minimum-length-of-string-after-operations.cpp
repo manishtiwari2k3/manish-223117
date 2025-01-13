@@ -22,7 +22,6 @@
 class Solution {
 public:
     int minimumLength(string s) {
-        // Step 1: Initialize a frequency array
         vector<int> charFrequency(26, 0);
         int totalLength = 0;
 
