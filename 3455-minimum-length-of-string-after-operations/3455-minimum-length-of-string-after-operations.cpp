@@ -38,11 +38,10 @@ public:
             if (frequency % 2 == 0) {
                 totalLength += 2;  // If frequency is even, add 2
             } else {
-                totalLength += 1;  // If frequency is odd, add 1
+                totalLength += 1;
             }
         }
 
-        // Step 4: Return the minimum length after deletions count
         return totalLength;
     }
 };
