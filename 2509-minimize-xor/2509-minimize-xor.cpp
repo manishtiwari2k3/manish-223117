@@ -10,9 +10,7 @@ public:
         // Start with the least significant bit (bit 0).
         int currentBit = 0;
 
-        // Add bits to result if it has fewer set bits than the target.
         while (setBitsCount < targetSetBitsCount) {
-            // If the current bit in result is not set (0), set it to 1.
             if (!isSet(result, currentBit)) {
                 setBit(result, currentBit);
                 setBitsCount++;
