@@ -42,9 +42,8 @@ public:
 
         int targetSetBitsCount = __builtin_popcount(num2);
         int setBitsCount = 0;
-        int currentBit = 31;  // Start from the most significant bit.
+        int currentBit = 31; 
 
-        // While x has fewer set bits than num2
         while (setBitsCount < targetSetBitsCount) {
             if (isSet(num1, currentBit) ||
                 (targetSetBitsCount - setBitsCount > currentBit)) {
