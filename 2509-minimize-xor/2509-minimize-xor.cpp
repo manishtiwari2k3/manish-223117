@@ -23,7 +23,6 @@ public:
 
         // Remove bits from result if it has more set bits than the target.
         while (setBitsCount > targetSetBitsCount) {
-            // If the current bit in result is set (1), unset it (make it 0).
             if (isSet(result, currentBit)) {
                 unsetBit(result, currentBit);
                 setBitsCount--;
