@@ -17,11 +17,9 @@ public:
                 setBit(result, currentBit);
                 setBitsCount++;
             }
-            // Move to the next bit.
             currentBit++;
         }
 
-        // Remove bits from result if it has more set bits than the target.
         while (setBitsCount > targetSetBitsCount) {
             if (isSet(result, currentBit)) {
                 unsetBit(result, currentBit);
