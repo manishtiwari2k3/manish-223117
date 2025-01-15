@@ -28,7 +28,6 @@ public:
                 unsetBit(result, currentBit);
                 setBitsCount--;
             }
-            // Move to the next bit.
             currentBit++;
         }
 
@@ -36,10 +35,8 @@ public:
     }
 
 private:
-    // Helper function to check if the given bit position in x is set (1).
     bool isSet(int x, int bit) { return x & (1 << bit); }
 
-    // Helper function to set the given bit position in x to 1.
     void setBit(int &x, int bit) { x |= (1 << bit); }
 
     void unsetBit(int &x, int bit) { x &= ~(1 << bit); }
