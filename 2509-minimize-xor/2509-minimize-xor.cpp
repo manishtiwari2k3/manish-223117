@@ -1,13 +1,11 @@
 class Solution {
 public:
     int minimizeXor(int num1, int num2) {
-        // Initialize result to num1. We will modify result.
         int result = num1;
 
         int targetSetBitsCount = __builtin_popcount(num2);
         int setBitsCount = __builtin_popcount(result);
 
-        // Start with the least significant bit (bit 0).
         int currentBit = 0;
 
         while (setBitsCount < targetSetBitsCount) {
