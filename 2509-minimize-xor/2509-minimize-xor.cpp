@@ -42,6 +42,5 @@ private:
     // Helper function to set the given bit position in x to 1.
     void setBit(int &x, int bit) { x |= (1 << bit); }
 
-    // Helper function to unset the given bit position in x (set it to 0).
     void unsetBit(int &x, int bit) { x &= ~(1 << bit); }
 };
