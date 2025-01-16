@@ -57,6 +57,7 @@
 | [2465-shifting-letters-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/manishtiwari2k3/manish-223117/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/manishtiwari2k3/manish-223117/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/manishtiwari2k3/manish-223117/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/manishtiwari2k3/manish-223117/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/manishtiwari2k3/manish-223117/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/manishtiwari2k3/manish-223117/tree/master/2554-minimum-total-distance-traveled) |
@@ -526,6 +527,7 @@
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/manishtiwari2k3/manish-223117/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2509-minimize-xor](https://github.com/manishtiwari2k3/manish-223117/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/manishtiwari2k3/manish-223117/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/manishtiwari2k3/manish-223117/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/manishtiwari2k3/manish-223117/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -611,4 +613,8 @@
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/manishtiwari2k3/manish-223117/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/manishtiwari2k3/manish-223117/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
