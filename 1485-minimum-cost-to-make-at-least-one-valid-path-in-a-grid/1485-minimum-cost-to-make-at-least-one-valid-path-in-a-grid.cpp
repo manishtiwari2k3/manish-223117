@@ -14,14 +14,12 @@ public:
             // Forward pass: check cells coming from left and top
             for (int row = 0; row < numRows; row++) {
                 for (int col = 0; col < numCols; col++) {
-                    // Check cell above
                     if (row > 0) {
                         minChanges[row][col] =
                             min(minChanges[row][col],
                                 minChanges[row - 1][col] +
                                     (grid[row - 1][col] == 3 ? 0 : 1));
                     }
-                    // Check cell to the left
                     if (col > 0) {
                         minChanges[row][col] =
                             min(minChanges[row][col],
@@ -31,10 +29,8 @@ public:
                 }
             }
 
-            // Backward pass: check cells coming from right and bottom
             for (int row = numRows - 1; row >= 0; row--) {
                 for (int col = numCols - 1; col >= 0; col--) {
-                    // Check cell below
                     if (row < numRows - 1) {
                         minChanges[row][col] =
                             min(minChanges[row][col],
