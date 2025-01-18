@@ -85,10 +85,8 @@ public:
                 // Check if new position is valid
                 if (newRow >= 0 && newRow < numRows && newCol >= 0 &&
                     newCol < numCols) {
-                    // Add cost=1 if we need to change direction
                     int newCost = cost + (dir != (grid[row][col] - 1) ? 1 : 0);
 
-                    // Update if we found a better path
                     if (minCost[newRow][newCol] > newCost) {
                         minCost[newRow][newCol] = newCost;
                         pq.push({newCost, newRow, newCol});
