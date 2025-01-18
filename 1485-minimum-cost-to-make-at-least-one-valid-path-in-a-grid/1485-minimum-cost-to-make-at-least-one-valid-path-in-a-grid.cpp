@@ -4,14 +4,11 @@ public:
         int numRows = grid.size(), numCols = grid[0].size();
         vector<vector<int>> minChanges(numRows, vector<int>(numCols, INT_MAX));
 
-        // Initialize all cells with max value
         minChanges[0][0] = 0;
 
         while (true) {
-            // Store previous state to check for convergence
             vector<vector<int>> prevState = minChanges;
 
-            // Forward pass: check cells coming from left and top
             for (int row = 0; row < numRows; row++) {
                 for (int col = 0; col < numCols; col++) {
                     if (row > 0) {
