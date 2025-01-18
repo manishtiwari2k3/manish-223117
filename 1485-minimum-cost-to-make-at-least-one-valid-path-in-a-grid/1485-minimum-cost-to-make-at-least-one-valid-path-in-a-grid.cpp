@@ -51,8 +51,6 @@ public:
                 }
             }
 
-            // If no changes were made in this iteration, we've found optimal
-            // solution
             if (prevState == minChanges) {
                 break;
             }
