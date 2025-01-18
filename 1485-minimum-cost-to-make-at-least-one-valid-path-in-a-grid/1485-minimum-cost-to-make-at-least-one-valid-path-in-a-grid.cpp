@@ -41,7 +41,6 @@ public:
                                 minChanges[row + 1][col] +
                                     (grid[row + 1][col] == 4 ? 0 : 1));
                     }
-                    // Check cell to the right
                     if (col < numCols - 1) {
                         minChanges[row][col] =
                             min(minChanges[row][col],
