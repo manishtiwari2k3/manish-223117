@@ -7,6 +7,7 @@
 | [0042-trapping-rain-water](https://github.com/manishtiwari2k3/manish-223117/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0239-sliding-window-maximum) |
+| [0407-trapping-rain-water-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/manishtiwari2k3/manish-223117/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/manishtiwari2k3/manish-223117/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/manishtiwari2k3/manish-223117/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -496,6 +497,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0239-sliding-window-maximum) |
+| [0407-trapping-rain-water-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/manishtiwari2k3/manish-223117/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/manishtiwari2k3/manish-223117/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/1304-longest-happy-string) |
@@ -554,6 +556,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/manishtiwari2k3/manish-223117/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/manishtiwari2k3/manish-223117/tree/master/0787-sliding-puzzle) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/manishtiwari2k3/manish-223117/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -578,6 +581,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/manishtiwari2k3/manish-223117/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/manishtiwari2k3/manish-223117/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/manishtiwari2k3/manish-223117/tree/master/1402-count-square-submatrices-with-all-ones) |
