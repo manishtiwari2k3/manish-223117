@@ -651,4 +651,8 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/manishtiwari2k3/manish-223117/tree/master/1396-count-servers-that-communicate) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/manishtiwari2k3/manish-223117/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
