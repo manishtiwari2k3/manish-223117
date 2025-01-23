@@ -79,13 +79,11 @@ public:
                     rowCounts[col]++;
                     lastServerInCol[row] = col;
                 }
-            // If there is more than one server in the row, increase the count
             if (serverCountInRow != 1)
                 communicableServersCount += serverCountInRow,
                     lastServerInCol[row] = -1;
         }
 
-        // Second pass to check if servers can communicate
         for (int row = 0; row < size(grid); ++row)
             communicableServersCount += lastServerInCol[row] != -1 &&
                                         rowCounts[lastServerInCol[row]] > 1;
