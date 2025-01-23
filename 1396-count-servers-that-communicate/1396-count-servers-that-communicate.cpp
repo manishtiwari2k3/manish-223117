@@ -31,8 +31,6 @@ public:
                             }
                         }
 
-                        // If a server was found in the same column, increment
-                        // communicableServersCount
                         if (canCommunicate) {
                             communicableServersCount++;
                         }
