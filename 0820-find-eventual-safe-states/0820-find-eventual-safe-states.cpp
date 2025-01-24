@@ -13,7 +13,6 @@ public:
         }
 
         queue<int> q;
-        // Push all the nodes with indegree zero in the queue.
         for (int i = 0; i < n; i++) {
             if (indegree[i] == 0) {
                 q.push(i);
@@ -27,7 +26,6 @@ public:
             safe[node] = true;
 
             for (auto& neighbor : adj[node]) {
-                // Delete the edge "node -> neighbor".
                 indegree[neighbor]--;
                 if (indegree[neighbor] == 0) {
                     q.push(neighbor);
