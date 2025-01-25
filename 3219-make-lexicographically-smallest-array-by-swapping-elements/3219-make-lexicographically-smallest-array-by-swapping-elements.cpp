@@ -14,14 +14,11 @@ public:
 
         for (int i = 1; i < nums.size(); i++) {
             if (abs(numsSorted[i] - numsSorted[i - 1]) > limit) {
-                // new group
                 currGroup++;
             }
 
-            // assign current element to group
             numToGroup.insert(pair<int, int>(numsSorted[i], currGroup));
 
-            // add element to sorted group list
             if (groupToList.find(currGroup) == groupToList.end()) {
                 groupToList[currGroup] = list<int>();
             }
