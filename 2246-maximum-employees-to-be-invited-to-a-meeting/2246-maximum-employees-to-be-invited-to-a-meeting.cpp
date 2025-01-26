@@ -91,9 +91,8 @@ public:
         int longestCycle = 0;
         int twoCycleInvitations = 0;
 
-        // Detect cycles
         for (int person = 0; person < n; ++person) {
-            if (inDegree[person] == 0) continue;  // Already processed
+            if (inDegree[person] == 0) continue; 
 
             int cycleLength = 0;
             int current = person;
