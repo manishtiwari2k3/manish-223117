@@ -69,7 +69,6 @@ public:
             inDegree[favorite[person]]++;
         }
 
-        // Topological sorting to remove non-cycle nodes
         queue<int> q;
         for (int person = 0; person < n; ++person) {
             if (inDegree[person] == 0) {
@@ -77,7 +76,7 @@ public:
             }
         }
 
-        vector<int> depth(n, 1);  // Depth of each node
+        vector<int> depth(n, 1);  
         while (!q.empty()) {
             int currentNode = q.front();
             q.pop();
