@@ -17,6 +17,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/manishtiwari2k3/manish-223117/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/manishtiwari2k3/manish-223117/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/manishtiwari2k3/manish-223117/tree/master/0859-design-circular-deque) |
+| [0890-lemonade-change](https://github.com/manishtiwari2k3/manish-223117/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/manishtiwari2k3/manish-223117/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0952-word-subsets](https://github.com/manishtiwari2k3/manish-223117/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0966-binary-subarrays-with-sum) |
@@ -193,6 +194,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/manishtiwari2k3/manish-223117/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/manishtiwari2k3/manish-223117/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manishtiwari2k3/manish-223117/tree/master/0780-max-chunks-to-make-sorted) |
+| [0890-lemonade-change](https://github.com/manishtiwari2k3/manish-223117/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/manishtiwari2k3/manish-223117/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/manishtiwari2k3/manish-223117/tree/master/1502-construct-k-palindrome-strings) |
