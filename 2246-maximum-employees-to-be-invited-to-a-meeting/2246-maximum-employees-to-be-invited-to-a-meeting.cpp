@@ -28,7 +28,6 @@ public:
         int longestCycle = 0, twoCycleInvitations = 0;
         vector<bool> visited(n, false);
 
-        // Find all cycles
         for (int person = 0; person < n; ++person) {
             if (!visited[person]) {
                 unordered_map<int, int> visitedPersons;
