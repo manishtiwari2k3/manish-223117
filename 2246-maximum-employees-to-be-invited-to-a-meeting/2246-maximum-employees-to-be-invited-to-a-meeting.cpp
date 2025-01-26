@@ -39,7 +39,7 @@ public:
                     visited[current] = true;
                     visitedPersons[current] = distance++;
                     int nextPerson = favorite[current];
-                    if (visitedPersons.count(nextPerson)) {  // Cycle detected
+                    if (visitedPersons.count(nextPerson)) {  
                         int cycleLength = distance - visitedPersons[nextPerson];
                         longestCycle = max(longestCycle, cycleLength);
                         if (cycleLength == 2) {
