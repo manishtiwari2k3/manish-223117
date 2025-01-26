@@ -98,13 +98,12 @@ public:
             int cycleLength = 0;
             int current = person;
             while (inDegree[current] != 0) {
-                inDegree[current] = 0;  // Mark as visited
+                inDegree[current] = 0;  
                 cycleLength++;
                 current = favorite[current];
             }
 
             if (cycleLength == 2) {
-                // For 2-cycles, add the depth of both nodes
                 twoCycleInvitations += depth[person] + depth[favorite[person]];
             } else {
                 longestCycle = max(longestCycle, cycleLength);
