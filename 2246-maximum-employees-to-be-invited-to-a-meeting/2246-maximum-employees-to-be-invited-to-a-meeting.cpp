@@ -7,7 +7,6 @@ public:
             reversedGraph[favorite[person]].push_back(person);
         }
 
-        // Helper function for BFS
         auto bfs = [&](int startNode, unordered_set<int>& visitedNodes) -> int {
             queue<pair<int, int>> q;
             q.push({startNode, 0});
