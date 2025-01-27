@@ -28,7 +28,6 @@ public:
 
         vector<bool> answer;
         for (auto q : queries) {
-            // Reset the visited array for each query.
             vector<bool> visited(numCourses, false);
             answer.push_back(isPrerequisite(adjList, visited, q[0], q[1]));
         }
