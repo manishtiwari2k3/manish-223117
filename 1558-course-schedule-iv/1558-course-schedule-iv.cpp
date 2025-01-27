@@ -1,7 +1,5 @@
 class Solution {
 public:
-    // Performs DFS and returns true if there's a path between src and target
-    // and false otherwise.
     bool isPrerequisite(unordered_map<int, vector<int>>& adjList,
                         vector<bool>& visited, int src, int target) {
         visited[src] = 1;
