@@ -72,12 +72,10 @@ private:
     }
 
 public:
-    // Function to find the maximum number of fishes
     int findMaxFish(vector<vector<int>>& grid) {
         int numRows = grid.size(), numCols = grid[0].size(), result = 0;
         vector<vector<bool>> visited(numRows, vector<bool>(numCols));
 
-        // Iterating through the entire grid
         for (int i = 0; i < numRows; i++) {
             for (int j = 0; j < numCols; j++) {
                 if (grid[i][j] && !visited[i][j]) {
