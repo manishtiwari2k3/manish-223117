@@ -45,18 +45,15 @@ private:
         q.push({row, col});
         visited[row][col] = true;
 
-        // Directions for exploring up, down, left, right
         vector<int> rowDirections = {0, 0, 1, -1};
         vector<int> colDirections = {1, -1, 0, 0};
 
-        // BFS traversal
         while (!q.empty()) {
             row = q.front().first;
             col = q.front().second;
             q.pop();
             fishCount += grid[row][col];
 
-            // Exploring all four directions
             for (int i = 0; i < 4; i++) {
                 int newRow = row + rowDirections[i];
                 int newCol = col + colDirections[i];
