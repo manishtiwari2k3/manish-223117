@@ -30,15 +30,12 @@ public:
         // Iterate through all cells in the grid
         for (int row = 0; row < rows; row++) {
             for (int col = 0; col < cols; col++) {
-                // Start a DFS for unvisited land cells (fish available)
                 if (grid[row][col] > 0 && !visited[row][col]) {
                     maxFishCount = max(
                         maxFishCount, calculateFishes(grid, visited, row, col));
                 }
             }
         }
-
-        // Return the maximum fish count found
         return maxFishCount;
     }
 };
