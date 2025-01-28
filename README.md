@@ -82,6 +82,7 @@
 | [2716-prime-subtraction-operation](https://github.com/manishtiwari2k3/manish-223117/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/2755-extra-characters-in-a-string) |
 | [2756-buy-two-chocolates](https://github.com/manishtiwari2k3/manish-223117/tree/master/2756-buy-two-chocolates) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/manishtiwari2k3/manish-223117/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/manishtiwari2k3/manish-223117/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/manishtiwari2k3/manish-223117/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/manishtiwari2k3/manish-223117/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -371,6 +372,7 @@
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/manishtiwari2k3/manish-223117/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/manishtiwari2k3/manish-223117/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/manishtiwari2k3/manish-223117/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/manishtiwari2k3/manish-223117/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Trie
 |  |
@@ -597,6 +599,7 @@
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/manishtiwari2k3/manish-223117/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/manishtiwari2k3/manish-223117/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/manishtiwari2k3/manish-223117/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/manishtiwari2k3/manish-223117/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
@@ -625,6 +628,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/manishtiwari2k3/manish-223117/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/manishtiwari2k3/manish-223117/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/manishtiwari2k3/manish-223117/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/manishtiwari2k3/manish-223117/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/manishtiwari2k3/manish-223117/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Number Theory
 |  |
@@ -670,6 +674,7 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/manishtiwari2k3/manish-223117/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/manishtiwari2k3/manish-223117/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/manishtiwari2k3/manish-223117/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Database
 |  |
