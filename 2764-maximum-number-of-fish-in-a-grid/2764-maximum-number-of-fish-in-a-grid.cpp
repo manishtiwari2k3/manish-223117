@@ -24,10 +24,8 @@ public:
         int rows = grid.size(), cols = grid[0].size();
         int maxFishCount = 0;
 
-        // A 2D vector to track visited cells
         vector<vector<bool>> visited(rows, vector<bool>(cols, false));
 
-        // Iterate through all cells in the grid
         for (int row = 0; row < rows; row++) {
             for (int col = 0; col < cols; col++) {
                 if (grid[row][col] > 0 && !visited[row][col]) {
