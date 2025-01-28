@@ -9,10 +9,8 @@ private:
             return 0;
         }
 
-        // Mark the current cell as visited
         visited[row][col] = true;
 
-        // Accumulate the fish count from the current cell and its neighbors
         return grid[row][col] + calculateFishes(grid, visited, row, col + 1) +
                calculateFishes(grid, visited, row, col - 1) +
                calculateFishes(grid, visited, row + 1, col) +
