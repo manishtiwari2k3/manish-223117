@@ -1,9 +1,7 @@
 class Solution {
 private:
-    // Helper function to count the number of fishes in a connected component
     int calculateFishes(vector<vector<int>>& grid,
                         vector<vector<bool>>& visited, int row, int col) {
-        // Check boundary conditions, water cells, or already visited cells
         if (row < 0 || row >= grid.size() || col < 0 || col >= grid[0].size() ||
             grid[row][col] == 0 || visited[row][col]) {
             return 0;
