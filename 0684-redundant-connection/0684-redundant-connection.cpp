@@ -11,8 +11,6 @@ private:
             if (!visited[adj]) {
                 parent[adj] = src;
                 DFS(adj, visited, adjList, parent);
-                // If the node is visited and the parent is different then the
-                // node is part of the cycle.
             } else if (adj != parent[src] && cycleStart == -1) {
                 cycleStart = adj;
                 parent[adj] = src;
