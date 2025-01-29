@@ -37,8 +37,6 @@ public:
 
         unordered_map<int, int> cycleNodes;
         int node = cycleStart;
-        // Start from the cycleStart node and backtrack to get all the nodes in
-        // the cycle. Mark them all in the map.
         do {
             cycleNodes[node] = 1;
             node = parent[node];
