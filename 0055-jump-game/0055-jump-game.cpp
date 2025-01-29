@@ -7,7 +7,8 @@ public:
                 return false;
             }
             maxi = max(maxi,i+nums[i]);
-        }
+            
+        } 
         return true;
     }
 };
