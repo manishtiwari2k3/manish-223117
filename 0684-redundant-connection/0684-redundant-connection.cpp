@@ -2,7 +2,6 @@ class Solution {
 private:
     int cycleStart = -1;
 
-    // Peform the DFS and store a node in the cycle as cycleStart.
     void DFS(int src, vector<bool> &visited, vector<int> adjList[],
              vector<int> &parent) {
         visited[src] = true;
