@@ -27,7 +27,6 @@ public:
         for (auto edge : edges) {
             vector<bool> visited(N, false);
 
-            // If DFS returns true, we will return the edge.
             if (isConnected(edge[0] - 1, edge[1] - 1, visited, adjList)) {
                 return edge;
             }
