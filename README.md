@@ -243,6 +243,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manishtiwari2k3/manish-223117/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/manishtiwari2k3/manish-223117/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/manishtiwari2k3/manish-223117/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/manishtiwari2k3/manish-223117/tree/master/0214-shortest-palindrome) |
 | [0409-longest-palindrome](https://github.com/manishtiwari2k3/manish-223117/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/manishtiwari2k3/manish-223117/tree/master/0424-longest-repeating-character-replacement) |
@@ -327,6 +328,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/manishtiwari2k3/manish-223117/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/manishtiwari2k3/manish-223117/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/manishtiwari2k3/manish-223117/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0148-sort-list) |
