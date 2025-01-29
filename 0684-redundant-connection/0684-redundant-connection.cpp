@@ -1,6 +1,5 @@
 class Solution {
 private:
-    // Performs DFS and returns true if there's a path between src and target.
     bool isConnected(int src, int target, vector<bool>& visited,
                      vector<int> adjList[]) {
         visited[src] = true;
