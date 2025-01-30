@@ -4,7 +4,6 @@ public:
     int magnificentSets(int n, vector<vector<int>> &edges) {
         vector<vector<int>> adjList(n);
         for (auto edge : edges) {
-            // Transition to 0-index
             adjList[edge[0] - 1].push_back(edge[1] - 1);
             adjList[edge[1] - 1].push_back(edge[0] - 1);
         }
@@ -12,13 +11,10 @@ public:
         vector<int> colors(n, -1);
         for (int node = 0; node < n; node++) {
             if (colors[node] != -1) continue;
-            // Start coloring from uncolored nodes
             colors[node] = 0;
-            // If the graph is not bipartite, return -1
             if (!isBipartite(adjList, node, colors)) return -1;
         }
 
-        // Calculate the longest shortest path for each node
         vector<int> distances(n);
         for (int node = 0; node < n; node++) {
             distances[node] = getLongestShortestPath(adjList, node, n);
