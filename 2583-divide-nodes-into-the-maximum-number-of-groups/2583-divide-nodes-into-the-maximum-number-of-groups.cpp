@@ -102,7 +102,6 @@ private:
         int maxNumberOfGroups = distances[node];
         visited[node] = true;
 
-        // Recursively calculate the maximum for all unvisited neighbors
         for (int neighbor : adjList[node]) {
             if (visited[neighbor]) continue;
             maxNumberOfGroups = max(maxNumberOfGroups,
