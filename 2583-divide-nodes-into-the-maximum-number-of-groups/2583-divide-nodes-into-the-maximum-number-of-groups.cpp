@@ -38,15 +38,11 @@ public:
     }
 
 private:
-    // Checks if the graph is bipartite starting from the given node
     bool isBipartite(vector<vector<int>> &adjList, int node,
                      vector<int> &colors) {
         for (int neighbor : adjList[node]) {
-            // If a neighbor has the same color as the current node, the graph
-            // is not bipartite
             if (colors[neighbor] == colors[node]) return false;
 
-            // If the neighbor is already colored, skip it
             if (colors[neighbor] != -1) continue;
 
             colors[neighbor] = (colors[node] + 1) % 2;
