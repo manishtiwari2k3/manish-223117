@@ -87,10 +87,8 @@ private:
                     nodesQueue.push(neighbor);
                 }
             }
-            // Increment the distance for each layer
             distance++;
         }
-        // Return the total distance (longest shortest path)
         return distance;
     }
 
