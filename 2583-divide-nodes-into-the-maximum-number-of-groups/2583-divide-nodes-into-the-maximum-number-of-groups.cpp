@@ -24,12 +24,10 @@ public:
             distances[node] = getLongestShortestPath(adjList, node, n);
         }
 
-        // Calculate the total maximum number of groups across all components
         int maxNumberOfGroups = 0;
         vector<bool> visited(n, false);
         for (int node = 0; node < n; node++) {
             if (visited[node]) continue;
-            // Add the number of groups for this component to the total
             maxNumberOfGroups += getNumberOfGroupsForComponent(
                 adjList, node, distances, visited);
         }
