@@ -94,11 +94,9 @@ private:
         return distance;
     }
 
-    // Calculates the maximum number of groups for a connected component
     int getNumberOfGroupsForComponent(vector<vector<int>> &adjList, int node,
                                       vector<int> &distances,
                                       vector<bool> &visited) {
-        // Start with the distance of the current node as the maximum
         int maxNumberOfGroups = distances[node];
         visited[node] = true;
 
