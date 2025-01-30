@@ -74,13 +74,11 @@ private:
 
         // Perform BFS layer by layer
         while (!nodesQueue.empty()) {
-            // Process all nodes in the current layer
             int numOfNodesInLayer = nodesQueue.size();
             for (int i = 0; i < numOfNodesInLayer; i++) {
                 int currentNode = nodesQueue.front();
                 nodesQueue.pop();
 
-                // Visit all unvisited neighbors of the current node
                 for (int neighbor : adjList[currentNode]) {
                     if (visited[neighbor]) continue;
                     visited[neighbor] = true;
