@@ -49,14 +49,10 @@ private:
             // If the neighbor is already colored, skip it
             if (colors[neighbor] != -1) continue;
 
-            // Assign the opposite color to the neighbor
             colors[neighbor] = (colors[node] + 1) % 2;
 
-            // Recursively check bipartiteness for the neighbor; return false if
-            // it fails
             if (!isBipartite(adjList, neighbor, colors)) return false;
         }
-        // If all neighbors are properly colored, return true
         return true;
     }
 
