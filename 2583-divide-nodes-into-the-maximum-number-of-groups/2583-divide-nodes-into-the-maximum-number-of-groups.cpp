@@ -60,11 +60,8 @@ private:
         return true;
     }
 
-    // Computes the longest shortest path (height) in the graph starting from
-    // the source node
     int getLongestShortestPath(vector<vector<int>> &adjList, int srcNode,
                                int n) {
-        // Initialize a queue for BFS and a visited array
         queue<int> nodesQueue;
         vector<bool> visited(n, false);
 
@@ -72,7 +69,6 @@ private:
         visited[srcNode] = true;
         int distance = 0;
 
-        // Perform BFS layer by layer
         while (!nodesQueue.empty()) {
             int numOfNodesInLayer = nodesQueue.size();
             for (int i = 0; i < numOfNodesInLayer; i++) {
