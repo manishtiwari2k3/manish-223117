@@ -2,9 +2,7 @@ class Solution {
 public:
     bool isArraySpecial(vector<int>& nums) {
         for (int index = 0; index < nums.size() - 1; index++) {
-            // Compare the parities of the current and next number
             if (nums[index] % 2 == nums[index + 1] % 2) {
-                // If the two adjacent numbers have the same parity, return
                 // false
                 return false;
             }
