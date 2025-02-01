@@ -7,8 +7,6 @@ public:
             }
         }
 
-        // Return true if no pair of adjacent numbers with the same parity are
-        // found
         return true;
     }
 };
