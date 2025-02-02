@@ -6,7 +6,6 @@ public:
         // Construct the rotated array
         vector<int> checkSorted(n);
 
-        // Iterate through all possible rotation offsets
         for (int rotationOffset = 0; rotationOffset < n; ++rotationOffset) {
             int currIndex = 0;
             for (int index = rotationOffset; index < n; ++index) {
@@ -16,7 +15,6 @@ public:
                 checkSorted[currIndex++] = (nums[index]);
             }
 
-            // Check if the constructed array is sorted
             bool isSorted = true;
             for (int index = 0; index < n - 1; ++index) {
                 if (checkSorted[index] > checkSorted[index + 1]) {
