@@ -3,7 +3,6 @@ public:
     bool check(vector<int>& nums) {
         int n = nums.size();
 
-        // Construct the rotated array
         vector<int> checkSorted(n);
 
         for (int rotationOffset = 0; rotationOffset < n; ++rotationOffset) {
