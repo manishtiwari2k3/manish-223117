@@ -25,13 +25,11 @@ public:
                 }
             }
 
-            // If sorted, return true
             if (isSorted) {
                 return true;
             }
         }
 
-        // If no rotation makes the array sorted, return false
         return false;
     }
 };
