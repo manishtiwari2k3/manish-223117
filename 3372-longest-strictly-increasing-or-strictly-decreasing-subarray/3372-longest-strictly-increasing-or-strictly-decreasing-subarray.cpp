@@ -22,11 +22,9 @@ public:
         for (int start = 0; start < nums.size(); start++) {
             int currLength = 1;
             for (int pos = start + 1; pos < nums.size(); pos++) {
-                // Extend subarray if next element is smaller
                 if (nums[pos] < nums[pos - 1]) {
                     currLength++;
                 } else {
-                    // Break if sequence is not decreasing anymo
                     break;
                 }
             }
