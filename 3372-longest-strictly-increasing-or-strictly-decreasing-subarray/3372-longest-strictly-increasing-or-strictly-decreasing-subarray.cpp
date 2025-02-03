@@ -26,7 +26,7 @@ public:
                 if (nums[pos] < nums[pos - 1]) {
                     currLength++;
                 } else {
-                    // Break if sequence is not decreasing anymore
+                    // Break if sequence is not decreasing anymo
                     break;
                 }
             }
