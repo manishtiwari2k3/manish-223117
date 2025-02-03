@@ -368,6 +368,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0144-binary-tree-preorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/manishtiwari2k3/manish-223117/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/manishtiwari2k3/manish-223117/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/manishtiwari2k3/manish-223117/tree/master/0684-redundant-connection) |
@@ -414,6 +415,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/manishtiwari2k3/manish-223117/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manishtiwari2k3/manish-223117/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/manishtiwari2k3/manish-223117/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/manishtiwari2k3/manish-223117/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0234-palindrome-linked-list) |
@@ -584,6 +586,7 @@
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/manishtiwari2k3/manish-223117/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/manishtiwari2k3/manish-223117/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/manishtiwari2k3/manish-223117/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -618,6 +621,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/manishtiwari2k3/manish-223117/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/manishtiwari2k3/manish-223117/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/manishtiwari2k3/manish-223117/tree/master/2493-reverse-odd-levels-of-binary-tree) |
