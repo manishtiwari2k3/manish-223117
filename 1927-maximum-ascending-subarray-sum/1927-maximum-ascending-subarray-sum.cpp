@@ -12,7 +12,6 @@ public:
                 currentSubarraySum += nums[endIdx];
             }
 
-            // Update maxSum if we find a larger ascending subarray sum
             maxSum = max(maxSum, currentSubarraySum);
         }
 
