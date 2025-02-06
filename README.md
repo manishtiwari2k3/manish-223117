@@ -24,6 +24,7 @@
 | [0952-word-subsets](https://github.com/manishtiwari2k3/manish-223117/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/manishtiwari2k3/manish-223117/tree/master/1002-maximum-width-ramp) |
+| [1019-squares-of-a-sorted-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/manishtiwari2k3/manish-223117/tree/master/1046-max-consecutive-ones-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/manishtiwari2k3/manish-223117/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/1256-rank-transform-of-an-array) |
@@ -233,6 +234,7 @@
 | [0455-assign-cookies](https://github.com/manishtiwari2k3/manish-223117/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/manishtiwari2k3/manish-223117/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manishtiwari2k3/manish-223117/tree/master/0780-max-chunks-to-make-sorted) |
+| [1019-squares-of-a-sorted-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/manishtiwari2k3/manish-223117/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/manishtiwari2k3/manish-223117/tree/master/2164-two-best-non-overlapping-events) |
@@ -348,6 +350,7 @@
 | [0455-assign-cookies](https://github.com/manishtiwari2k3/manish-223117/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/manishtiwari2k3/manish-223117/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/manishtiwari2k3/manish-223117/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/manishtiwari2k3/manish-223117/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
