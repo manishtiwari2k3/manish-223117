@@ -7,6 +7,7 @@
 | [0042-trapping-rain-water](https://github.com/manishtiwari2k3/manish-223117/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/manishtiwari2k3/manish-223117/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0407-trapping-rain-water-ii) |
 | [0455-assign-cookies](https://github.com/manishtiwari2k3/manish-223117/tree/master/0455-assign-cookies) |
@@ -160,6 +161,7 @@
 | [0009-palindrome-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/manishtiwari2k3/manish-223117/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/manishtiwari2k3/manish-223117/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/manishtiwari2k3/manish-223117/tree/master/0231-power-of-two) |
 | [0670-maximum-swap](https://github.com/manishtiwari2k3/manish-223117/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/1013-fibonacci-number) |
@@ -351,6 +353,7 @@
 | [0141-linked-list-cycle](https://github.com/manishtiwari2k3/manish-223117/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/manishtiwari2k3/manish-223117/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0567-permutation-in-string) |
