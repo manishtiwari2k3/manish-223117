@@ -10,6 +10,7 @@
 | [0136-single-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/manishtiwari2k3/manish-223117/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0407-trapping-rain-water-ii) |
 | [0455-assign-cookies](https://github.com/manishtiwari2k3/manish-223117/tree/master/0455-assign-cookies) |
@@ -117,6 +118,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/manishtiwari2k3/manish-223117/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/manishtiwari2k3/manish-223117/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/manishtiwari2k3/manish-223117/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/manishtiwari2k3/manish-223117/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/manishtiwari2k3/manish-223117/tree/master/0432-all-oone-data-structure) |
@@ -168,6 +170,7 @@
 | [0050-powx-n](https://github.com/manishtiwari2k3/manish-223117/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/manishtiwari2k3/manish-223117/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/manishtiwari2k3/manish-223117/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/manishtiwari2k3/manish-223117/tree/master/1370-count-number-of-nice-subarrays) |
@@ -245,6 +248,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/manishtiwari2k3/manish-223117/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/manishtiwari2k3/manish-223117/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manishtiwari2k3/manish-223117/tree/master/0780-max-chunks-to-make-sorted) |
@@ -467,6 +471,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/0268-missing-number) |
 | [0729-my-calendar-i](https://github.com/manishtiwari2k3/manish-223117/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/manishtiwari2k3/manish-223117/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -605,6 +610,7 @@
 | [0029-divide-two-integers](https://github.com/manishtiwari2k3/manish-223117/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/manishtiwari2k3/manish-223117/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/0268-missing-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/manishtiwari2k3/manish-223117/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/manishtiwari2k3/manish-223117/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/manishtiwari2k3/manish-223117/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
