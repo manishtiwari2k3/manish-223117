@@ -14,6 +14,7 @@
 | [0283-move-zeroes](https://github.com/manishtiwari2k3/manish-223117/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0407-trapping-rain-water-ii) |
 | [0455-assign-cookies](https://github.com/manishtiwari2k3/manish-223117/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/manishtiwari2k3/manish-223117/tree/master/0485-max-consecutive-ones) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/manishtiwari2k3/manish-223117/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/manishtiwari2k3/manish-223117/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/manishtiwari2k3/manish-223117/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
