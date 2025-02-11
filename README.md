@@ -10,6 +10,7 @@
 | [0136-single-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/manishtiwari2k3/manish-223117/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0407-trapping-rain-water-ii) |
 | [0455-assign-cookies](https://github.com/manishtiwari2k3/manish-223117/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/manishtiwari2k3/manish-223117/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -363,6 +364,7 @@
 | [0148-sort-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/manishtiwari2k3/manish-223117/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/manishtiwari2k3/manish-223117/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0908-middle-of-the-linked-list) |
