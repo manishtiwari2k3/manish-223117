@@ -1,25 +1,15 @@
-// class Solution {
-// public:
-//     int singleNumber(vector<int>& nums) {
-//         map<int,int> mpp;
-//         for(int i=0;i<nums.size();i++){
-//             mpp[nums[i]]++;
-//         }
-//         for(auto it:mpp){
-//             if(it.second == 1){
-//                 return it.first;
-//             }
-//         }
-//         return -1;
-//     }
-// };
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int a = 0;
-        for(int i=0;i<nums.size();i++){
-            a = a ^ nums[i];
+        unordered_map <int,int> freq;
+        for(auto it:nums){
+            freq[it]++;
         }
-        return a;
+        for(auto it:freq){
+            if(it.second==1){
+                return it.first;
+            }
+        }
+        return -1;
     }
 };
