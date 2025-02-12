@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/manishtiwari2k3/manish-223117/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/manishtiwari2k3/manish-223117/tree/master/0055-jump-game) |
@@ -116,6 +117,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manishtiwari2k3/manish-223117/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/manishtiwari2k3/manish-223117/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0142-linked-list-cycle-ii) |
