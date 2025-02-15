@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/manishtiwari2k3/manish-223117/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/manishtiwari2k3/manish-223117/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/manishtiwari2k3/manish-223117/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0239-sliding-window-maximum) |
@@ -120,6 +121,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manishtiwari2k3/manish-223117/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/manishtiwari2k3/manish-223117/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/manishtiwari2k3/manish-223117/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/0268-missing-number) |
@@ -690,6 +692,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/manishtiwari2k3/manish-223117/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/manishtiwari2k3/manish-223117/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/manishtiwari2k3/manish-223117/tree/master/0854-making-a-large-island) |
