@@ -1,14 +1,11 @@
-#include<bits/stdc++.h>
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        int n = nums.size();
-       unordered_map <int,int> mpp;
-        for(auto i : nums){
-            if(mpp.count(i)){
+        sort(nums.begin(),nums.end());
+        for(int i=1;i<nums.size();i++){
+            if(nums[i]==nums[i-1]){
                 return true;
             }
-            mpp[i]++;
         }
         return false;
     }
