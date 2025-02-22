@@ -300,6 +300,7 @@
 | [0812-rotate-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/manishtiwari2k3/manish-223117/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/manishtiwari2k3/manish-223117/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/manishtiwari2k3/manish-223117/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/manishtiwari2k3/manish-223117/tree/master/1197-parsing-a-boolean-expression) |
 | [1205-defanging-an-ip-address](https://github.com/manishtiwari2k3/manish-223117/tree/master/1205-defanging-an-ip-address) |
@@ -431,6 +432,7 @@
 | [0820-find-eventual-safe-states](https://github.com/manishtiwari2k3/manish-223117/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/manishtiwari2k3/manish-223117/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/manishtiwari2k3/manish-223117/tree/master/0988-flip-equivalent-binary-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/manishtiwari2k3/manish-223117/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/manishtiwari2k3/manish-223117/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/manishtiwari2k3/manish-223117/tree/master/1558-course-schedule-iv) |
@@ -669,6 +671,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/manishtiwari2k3/manish-223117/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/manishtiwari2k3/manish-223117/tree/master/0988-flip-equivalent-binary-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/manishtiwari2k3/manish-223117/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/manishtiwari2k3/manish-223117/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/manishtiwari2k3/manish-223117/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -708,6 +711,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/manishtiwari2k3/manish-223117/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/manishtiwari2k3/manish-223117/tree/master/0988-flip-equivalent-binary-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/manishtiwari2k3/manish-223117/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/manishtiwari2k3/manish-223117/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/manishtiwari2k3/manish-223117/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
