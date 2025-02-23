@@ -29,6 +29,7 @@
 | [0859-design-circular-deque](https://github.com/manishtiwari2k3/manish-223117/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/manishtiwari2k3/manish-223117/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/manishtiwari2k3/manish-223117/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/manishtiwari2k3/manish-223117/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/manishtiwari2k3/manish-223117/tree/master/1002-maximum-width-ramp) |
@@ -134,6 +135,7 @@
 | [0432-all-oone-data-structure](https://github.com/manishtiwari2k3/manish-223117/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/manishtiwari2k3/manish-223117/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/manishtiwari2k3/manish-223117/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0966-binary-subarrays-with-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/manishtiwari2k3/manish-223117/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -582,6 +584,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0148-sort-list) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Merge Sort
 |  |
 | ------- |
@@ -673,6 +676,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/manishtiwari2k3/manish-223117/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/manishtiwari2k3/manish-223117/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manishtiwari2k3/manish-223117/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -715,6 +719,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/manishtiwari2k3/manish-223117/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/manishtiwari2k3/manish-223117/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manishtiwari2k3/manish-223117/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
