@@ -19,6 +19,7 @@
 | [0455-assign-cookies](https://github.com/manishtiwari2k3/manish-223117/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/manishtiwari2k3/manish-223117/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/manishtiwari2k3/manish-223117/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0503-next-greater-element-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/manishtiwari2k3/manish-223117/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/manishtiwari2k3/manish-223117/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/manishtiwari2k3/manish-223117/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -486,6 +487,7 @@
 | [0225-implement-stack-using-queues](https://github.com/manishtiwari2k3/manish-223117/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/manishtiwari2k3/manish-223117/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manishtiwari2k3/manish-223117/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/manishtiwari2k3/manish-223117/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -610,6 +612,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manishtiwari2k3/manish-223117/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/manishtiwari2k3/manish-223117/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manishtiwari2k3/manish-223117/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/manishtiwari2k3/manish-223117/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/manishtiwari2k3/manish-223117/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
