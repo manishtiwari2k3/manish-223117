@@ -316,6 +316,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/manishtiwari2k3/manish-223117/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/manishtiwari2k3/manish-223117/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/manishtiwari2k3/manish-223117/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/manishtiwari2k3/manish-223117/tree/master/1197-parsing-a-boolean-expression) |
 | [1205-defanging-an-ip-address](https://github.com/manishtiwari2k3/manish-223117/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -479,6 +480,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/manishtiwari2k3/manish-223117/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/manishtiwari2k3/manish-223117/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/1013-fibonacci-number) |
+| [1170-shortest-common-supersequence](https://github.com/manishtiwari2k3/manish-223117/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/manishtiwari2k3/manish-223117/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manishtiwari2k3/manish-223117/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
