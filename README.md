@@ -79,6 +79,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/manishtiwari2k3/manish-223117/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/manishtiwari2k3/manish-223117/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/manishtiwari2k3/manish-223117/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2227-sum-of-subarray-ranges](https://github.com/manishtiwari2k3/manish-223117/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/manishtiwari2k3/manish-223117/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/manishtiwari2k3/manish-223117/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -512,6 +513,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/manishtiwari2k3/manish-223117/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manishtiwari2k3/manish-223117/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/manishtiwari2k3/manish-223117/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2227-sum-of-subarray-ranges](https://github.com/manishtiwari2k3/manish-223117/tree/master/2227-sum-of-subarray-ranges) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/manishtiwari2k3/manish-223117/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/manishtiwari2k3/manish-223117/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -633,6 +635,7 @@
 | [1002-maximum-width-ramp](https://github.com/manishtiwari2k3/manish-223117/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/manishtiwari2k3/manish-223117/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/manishtiwari2k3/manish-223117/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2227-sum-of-subarray-ranges](https://github.com/manishtiwari2k3/manish-223117/tree/master/2227-sum-of-subarray-ranges) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/manishtiwari2k3/manish-223117/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Heap (Priority Queue)
 |  |
