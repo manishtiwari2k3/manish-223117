@@ -253,6 +253,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/manishtiwari2k3/manish-223117/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/manishtiwari2k3/manish-223117/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/manishtiwari2k3/manish-223117/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/manishtiwari2k3/manish-223117/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/manishtiwari2k3/manish-223117/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -310,6 +311,7 @@
 | [0020-valid-parentheses](https://github.com/manishtiwari2k3/manish-223117/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/manishtiwari2k3/manish-223117/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/manishtiwari2k3/manish-223117/tree/master/0214-shortest-palindrome) |
+| [0402-remove-k-digits](https://github.com/manishtiwari2k3/manish-223117/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/manishtiwari2k3/manish-223117/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/manishtiwari2k3/manish-223117/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0567-permutation-in-string) |
@@ -505,6 +507,7 @@
 | [0155-min-stack](https://github.com/manishtiwari2k3/manish-223117/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/manishtiwari2k3/manish-223117/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/manishtiwari2k3/manish-223117/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/manishtiwari2k3/manish-223117/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0678-valid-parenthesis-string) |
@@ -636,6 +639,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manishtiwari2k3/manish-223117/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/manishtiwari2k3/manish-223117/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/manishtiwari2k3/manish-223117/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manishtiwari2k3/manish-223117/tree/master/0780-max-chunks-to-make-sorted) |
