@@ -120,6 +120,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/manishtiwari2k3/manish-223117/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/manishtiwari2k3/manish-223117/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/manishtiwari2k3/manish-223117/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/manishtiwari2k3/manish-223117/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/manishtiwari2k3/manish-223117/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/manishtiwari2k3/manish-223117/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/manishtiwari2k3/manish-223117/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -186,6 +187,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/manishtiwari2k3/manish-223117/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/manishtiwari2k3/manish-223117/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/manishtiwari2k3/manish-223117/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/manishtiwari2k3/manish-223117/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/manishtiwari2k3/manish-223117/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/manishtiwari2k3/manish-223117/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -212,6 +214,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/manishtiwari2k3/manish-223117/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/manishtiwari2k3/manish-223117/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/manishtiwari2k3/manish-223117/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/manishtiwari2k3/manish-223117/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/manishtiwari2k3/manish-223117/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Counting
 |  |
@@ -797,6 +800,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/manishtiwari2k3/manish-223117/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/manishtiwari2k3/manish-223117/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/manishtiwari2k3/manish-223117/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/manishtiwari2k3/manish-223117/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
 | ------- |
