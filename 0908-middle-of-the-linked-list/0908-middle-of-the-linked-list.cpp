@@ -11,36 +11,17 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        // ListNode* temp = head;
-        // int cnt = 0;
-        // while(temp!=NULL){
-        //     cnt++;
-        //     temp = temp->next;
-        // }
-        // int midN = (cnt/2)+1;
-        // temp = head;
-        // while(temp!=NULL){
-        //     midN--;
-        //     if(midN==0){
-        //         break;
-        //     }
-        //     temp = temp->next;
-        // }
-        // return temp;
-
-
-
-
-
-
-        // tortoise and hare method
-
-        ListNode* slow = head;
-        ListNode* fast = head;
-        while(fast!=NULL && fast->next!=NULL){
-            fast = fast->next->next;
-            slow = slow->next;
+        ListNode* temp = head;
+        int cnt = 0;
+        while(temp){
+            cnt++;
+            temp = temp->next;
         }
-        return slow;
+        int mid = (cnt/2);
+        temp = head;
+        for(int i=0;i<mid;i++){
+            temp=temp->next;
+        }
+        return temp;
     }
 };
