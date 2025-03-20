@@ -10,36 +10,21 @@
  */
 class Solution {
 public:
-    ListNode* convertArr2LL(vector<int>& arr){
-        if(arr.empty()){
-            return nullptr;
-        }
-        ListNode* head = new ListNode(arr[0]);
-        ListNode* mover = head;
-        for(int i=1;i<arr.size();i++){
-            // mover->next = new ListNode(arr[i]);
-            // mover = mover->next;
-            ListNode* temp = new ListNode(arr[i]);
-            mover->next = temp;
-            mover = temp;
-        }
-        return head;
-    }
     ListNode* oddEvenList(ListNode* head) {
-        vector<int>arr;
-        ListNode* temp = head;
-        while(temp){
-            arr.emplace_back(temp->val);
-            temp= temp->next;
+        if(head==NULL || head->next==NULL){
+            return head;
         }
-        vector<int>oddev;
-        for(int i=0;i<arr.size();i+=2){
-            oddev.emplace_back(arr[i]);
+        ListNode* odd = head;
+        ListNode* even = head->next;
+        ListNode* evenh = even;
+        while(even && even->next){
+            odd->next = even->next;
+            odd = odd->next;
+
+            even->next = odd->next;
+            even = even->next;
         }
-        for(int i=1;i<arr.size();i+=2){
-            oddev.emplace_back(arr[i]);
-        }
-        ListNode* newh = convertArr2LL(oddev);
-        return newh;
+        odd->next = evenh;
+        return head;
     }
 };
