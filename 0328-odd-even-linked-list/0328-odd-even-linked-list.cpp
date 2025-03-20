@@ -10,55 +10,36 @@
  */
 class Solution {
 public:
-    ListNode* oddEvenList(ListNode* head) {
-        // if(head==NULL||head->next==NULL){
-        //     return head;
-        // }
-        // vector <int> arr = {};
-        // ListNode* temp = head;
-        // while(temp!=NULL && temp->next!=NULL){
-        //     arr.emplace_back(temp->val);
-        //     temp=temp->next->next;
-        // }
-        // if(temp){
-        //     arr.emplace_back(temp->val);
-        // }
-        // temp = head->next;
-        // while(temp!=NULL && temp->next!=NULL){
-        //     arr.emplace_back(temp->val);
-        //     temp = temp->next->next;
-        // }
-        // if(temp){
-        //     arr.emplace_back(temp->val);
-        // }
-
-        // int i=0 ;
-        // temp = head;
-        // while(temp){
-        //     temp->val = arr[i];
-        //     temp  = temp->next;
-        //     i++;
-        // }
-        // return head;
-
-
-        // optimal
-
-        if(head==NULL || head->next==NULL){
-            return head;
+    ListNode* convertArr2LL(vector<int>& arr){
+        if(arr.empty()){
+            return nullptr;
         }
-        ListNode* odd = head;
-        ListNode* even = head->next;
-        ListNode* evenH = head->next;
-        while(even!=NULL && even->next!=NULL)//because even is always ahead of odd so we dont have to check for the odd separately
-        {
-            odd->next = odd->next->next;
-            even->next = even->next->next;
-
-            odd = odd->next;
-            even = even->next;
+        ListNode* head = new ListNode(arr[0]);
+        ListNode* mover = head;
+        for(int i=1;i<arr.size();i++){
+            // mover->next = new ListNode(arr[i]);
+            // mover = mover->next;
+            ListNode* temp = new ListNode(arr[i]);
+            mover->next = temp;
+            mover = temp;
         }
-        odd->next = evenH;
         return head;
+    }
+    ListNode* oddEvenList(ListNode* head) {
+        vector<int>arr;
+        ListNode* temp = head;
+        while(temp){
+            arr.emplace_back(temp->val);
+            temp= temp->next;
+        }
+        vector<int>oddev;
+        for(int i=0;i<arr.size();i+=2){
+            oddev.emplace_back(arr[i]);
+        }
+        for(int i=1;i<arr.size();i+=2){
+            oddev.emplace_back(arr[i]);
+        }
+        ListNode* newh = convertArr2LL(oddev);
+        return newh;
     }
 };
