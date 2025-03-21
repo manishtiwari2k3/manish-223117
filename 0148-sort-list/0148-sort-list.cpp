@@ -8,24 +8,30 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
- #include<bits/stdc++.h>
 class Solution {
 public:
-    ListNode* sortList(ListNode* head) {
-        ListNode* temp =head;
-        vector <int> arr = {};
-        while(temp){
-            arr.emplace_back(temp->val);
-            temp = temp->next;
-        }
-        temp = head;
-        sort(arr.begin(),arr.end());
-        int i = 0;
-        while(temp){
-            temp->val = arr[i];
-            i++;
-            temp = temp->next;
+    ListNode* convertArr2LL(vector<int> &arr){
+        ListNode* head = new ListNode(arr[0]);
+        ListNode* mover = head;
+        for(int i=1;i<arr.size();i++){
+            ListNode* front = new ListNode(arr[i]);
+            mover->next = front;
+            mover = front;
         }
         return head;
+    }
+    ListNode* sortList(ListNode* head) {
+        ListNode* temp = head;
+        if(head==NULL || head->next==NULL){
+            return head;
+        }
+        vector<int>arr;
+        while(temp){
+            arr.push_back(temp->val);
+            temp = temp->next;
+        }
+        sort(arr.begin(),arr.end());
+        ListNode* newh = convertArr2LL(arr);
+        return newh;
     }
 };
