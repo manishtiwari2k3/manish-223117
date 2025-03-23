@@ -528,6 +528,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/manishtiwari2k3/manish-223117/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manishtiwari2k3/manish-223117/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/manishtiwari2k3/manish-223117/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/manishtiwari2k3/manish-223117/tree/master/2164-two-best-non-overlapping-events) |
 | [2554-minimum-total-distance-traveled](https://github.com/manishtiwari2k3/manish-223117/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/2586-longest-square-streak-in-an-array) |
@@ -865,6 +866,7 @@
 | [0820-find-eventual-safe-states](https://github.com/manishtiwari2k3/manish-223117/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/manishtiwari2k3/manish-223117/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/manishtiwari2k3/manish-223117/tree/master/1558-course-schedule-iv) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/manishtiwari2k3/manish-223117/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/manishtiwari2k3/manish-223117/tree/master/2201-valid-arrangement-of-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/manishtiwari2k3/manish-223117/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/manishtiwari2k3/manish-223117/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -880,6 +882,7 @@
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/manishtiwari2k3/manish-223117/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/manishtiwari2k3/manish-223117/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/manishtiwari2k3/manish-223117/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/manishtiwari2k3/manish-223117/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Eulerian Circuit
@@ -918,6 +921,7 @@
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/manishtiwari2k3/manish-223117/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/manishtiwari2k3/manish-223117/tree/master/1558-course-schedule-iv) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/manishtiwari2k3/manish-223117/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/manishtiwari2k3/manish-223117/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/manishtiwari2k3/manish-223117/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Memoization
