@@ -9,12 +9,31 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+ #include<bits/stdc++.h>
 class Solution {
 public:
     int maxDepth(TreeNode* root) {
-        if(root==NULL) return 0;
-        int lh = maxDepth(root->left);
-        int rh = maxDepth(root->right);
-        return 1+max(lh,rh);
+        int depth = 0;
+        if(root==NULL){
+            return depth;
+        }
+        queue<TreeNode*>q;
+        q.push(root);
+        while(!q.empty()){
+            int n = q.size();
+            depth++;
+            for(int i=0;i<n;i++){
+                TreeNode* node = q.front();
+                q.pop();
+                if(node->left){
+                    q.push(node->left);
+                }
+                if(node->right){
+                    q.push(node->right);
+                }
+
+            }
+        }
+        return depth;
     }
 };
