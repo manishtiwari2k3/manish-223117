@@ -9,20 +9,19 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        map<ListNode*,int>mpp;
         ListNode* temp = headA;
-        map<ListNode* , int> mpp;
         while(temp){
             mpp[temp] = 1;
             temp = temp->next;
         }
-
         temp = headB;
         while(temp){
             if(mpp.find(temp)!=mpp.end()){
                 return temp;
             }
-            temp=temp->next;
+            temp = temp->next;
         }
-    return nullptr;
+        return NULL;
     }
 };
