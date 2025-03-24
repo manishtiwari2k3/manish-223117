@@ -491,6 +491,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/manishtiwari2k3/manish-223117/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/manishtiwari2k3/manish-223117/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/manishtiwari2k3/manish-223117/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/manishtiwari2k3/manish-223117/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/manishtiwari2k3/manish-223117/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/manishtiwari2k3/manish-223117/tree/master/0854-making-a-large-island) |
@@ -778,6 +779,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/manishtiwari2k3/manish-223117/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/manishtiwari2k3/manish-223117/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/manishtiwari2k3/manish-223117/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -827,6 +829,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/manishtiwari2k3/manish-223117/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/manishtiwari2k3/manish-223117/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/manishtiwari2k3/manish-223117/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/1093-recover-a-tree-from-preorder-traversal) |
