@@ -168,6 +168,7 @@
 | [0496-next-greater-element-i](https://github.com/manishtiwari2k3/manish-223117/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/manishtiwari2k3/manish-223117/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0768-partition-labels](https://github.com/manishtiwari2k3/manish-223117/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/manishtiwari2k3/manish-223117/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/manishtiwari2k3/manish-223117/tree/master/0952-word-subsets) |
@@ -299,6 +300,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/manishtiwari2k3/manish-223117/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/manishtiwari2k3/manish-223117/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0678-valid-parenthesis-string) |
+| [0768-partition-labels](https://github.com/manishtiwari2k3/manish-223117/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manishtiwari2k3/manish-223117/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/manishtiwari2k3/manish-223117/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/manishtiwari2k3/manish-223117/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -363,6 +365,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/manishtiwari2k3/manish-223117/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0678-valid-parenthesis-string) |
+| [0768-partition-labels](https://github.com/manishtiwari2k3/manish-223117/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/manishtiwari2k3/manish-223117/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/manishtiwari2k3/manish-223117/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -468,6 +471,7 @@
 | [0283-move-zeroes](https://github.com/manishtiwari2k3/manish-223117/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/manishtiwari2k3/manish-223117/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/manishtiwari2k3/manish-223117/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/manishtiwari2k3/manish-223117/tree/master/1468-check-if-n-and-its-double-exist) |
