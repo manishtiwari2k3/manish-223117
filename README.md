@@ -19,6 +19,7 @@
 | [0283-move-zeroes](https://github.com/manishtiwari2k3/manish-223117/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/manishtiwari2k3/manish-223117/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/manishtiwari2k3/manish-223117/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/manishtiwari2k3/manish-223117/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/manishtiwari2k3/manish-223117/tree/master/0496-next-greater-element-i) |
@@ -563,6 +564,7 @@
 | [0055-jump-game](https://github.com/manishtiwari2k3/manish-223117/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0368-largest-divisible-subset](https://github.com/manishtiwari2k3/manish-223117/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/manishtiwari2k3/manish-223117/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/manishtiwari2k3/manish-223117/tree/master/0905-length-of-longest-fibonacci-subsequence) |
