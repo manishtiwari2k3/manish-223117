@@ -832,6 +832,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/manishtiwari2k3/manish-223117/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/manishtiwari2k3/manish-223117/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/manishtiwari2k3/manish-223117/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/manishtiwari2k3/manish-223117/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/manishtiwari2k3/manish-223117/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -891,6 +892,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/manishtiwari2k3/manish-223117/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/manishtiwari2k3/manish-223117/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/manishtiwari2k3/manish-223117/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/manishtiwari2k3/manish-223117/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/manishtiwari2k3/manish-223117/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1020,4 +1022,5 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/manishtiwari2k3/manish-223117/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/manishtiwari2k3/manish-223117/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
