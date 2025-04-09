@@ -1,21 +1,20 @@
 class Solution {
 public:
-    int nCr(int n,int r){
-        long long res = 1;
-        for(int i=0;i<r;i++){
-            res = res * (n-i);
-            res = res / (i+1);
+    vector <int> generateRow(int row){
+        long long ans = 1;
+        vector<int>ansi;
+        ansi.push_back(1);
+        for(int i=1;i<row;i++){
+            ans = ans*(row-i);
+            ans = ans/i;
+            ansi.push_back(ans);
         }
-        return res;
+        return ansi;
     }
     vector<vector<int>> generate(int numRows) {
         vector<vector<int>>ans;
         for(int i=1;i<=numRows;i++){
-            vector<int>temp;
-            for(int j=1;j<=i;j++){
-                temp.push_back(nCr(i-1,j-1));
-            }
-            ans.push_back(temp);
+            ans.push_back(generateRow(i));
         }
         return ans;
     }
