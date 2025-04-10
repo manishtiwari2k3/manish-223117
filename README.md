@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/manishtiwari2k3/manish-223117/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/manishtiwari2k3/manish-223117/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/manishtiwari2k3/manish-223117/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/manishtiwari2k3/manish-223117/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manishtiwari2k3/manish-223117/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/manishtiwari2k3/manish-223117/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/0136-single-number) |
@@ -342,6 +343,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/manishtiwari2k3/manish-223117/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/manishtiwari2k3/manish-223117/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/0268-missing-number) |
@@ -482,6 +484,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/manishtiwari2k3/manish-223117/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/manishtiwari2k3/manish-223117/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/manishtiwari2k3/manish-223117/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/manishtiwari2k3/manish-223117/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/manishtiwari2k3/manish-223117/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0142-linked-list-cycle-ii) |
