@@ -9,6 +9,7 @@
 | [0031-next-permutation](https://github.com/manishtiwari2k3/manish-223117/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/manishtiwari2k3/manish-223117/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/manishtiwari2k3/manish-223117/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/manishtiwari2k3/manish-223117/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/manishtiwari2k3/manish-223117/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/manishtiwari2k3/manish-223117/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manishtiwari2k3/manish-223117/tree/master/0084-largest-rectangle-in-histogram) |
@@ -569,6 +570,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manishtiwari2k3/manish-223117/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/manishtiwari2k3/manish-223117/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/manishtiwari2k3/manish-223117/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/manishtiwari2k3/manish-223117/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -722,6 +724,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/manishtiwari2k3/manish-223117/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0148-sort-list) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Merge Sort
