@@ -9,6 +9,7 @@
 | [0031-next-permutation](https://github.com/manishtiwari2k3/manish-223117/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/manishtiwari2k3/manish-223117/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/manishtiwari2k3/manish-223117/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/manishtiwari2k3/manish-223117/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/manishtiwari2k3/manish-223117/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/manishtiwari2k3/manish-223117/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/manishtiwari2k3/manish-223117/tree/master/0073-set-matrix-zeroes) |
@@ -239,6 +240,7 @@
 | [0007-reverse-integer](https://github.com/manishtiwari2k3/manish-223117/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/manishtiwari2k3/manish-223117/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/manishtiwari2k3/manish-223117/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/manishtiwari2k3/manish-223117/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/manishtiwari2k3/manish-223117/tree/master/0231-power-of-two) |
@@ -925,6 +927,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/manishtiwari2k3/manish-223117/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/manishtiwari2k3/manish-223117/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/manishtiwari2k3/manish-223117/tree/master/0787-sliding-puzzle) |
