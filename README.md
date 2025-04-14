@@ -256,6 +256,7 @@
 | [1635-number-of-good-pairs](https://github.com/manishtiwari2k3/manish-223117/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/manishtiwari2k3/manish-223117/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/manishtiwari2k3/manish-223117/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/manishtiwari2k3/manish-223117/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/manishtiwari2k3/manish-223117/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/manishtiwari2k3/manish-223117/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/manishtiwari2k3/manish-223117/tree/master/2610-closest-prime-numbers-in-range) |
@@ -534,6 +535,7 @@
 | [1013-fibonacci-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/manishtiwari2k3/manish-223117/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2050-count-good-numbers](https://github.com/manishtiwari2k3/manish-223117/tree/master/2050-count-good-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
