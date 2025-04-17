@@ -553,6 +553,7 @@
 | [0386-lexicographical-numbers](https://github.com/manishtiwari2k3/manish-223117/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/manishtiwari2k3/manish-223117/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/manishtiwari2k3/manish-223117/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/manishtiwari2k3/manish-223117/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/manishtiwari2k3/manish-223117/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/manishtiwari2k3/manish-223117/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/manishtiwari2k3/manish-223117/tree/master/0854-making-a-large-island) |
@@ -893,6 +894,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/manishtiwari2k3/manish-223117/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/manishtiwari2k3/manish-223117/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/manishtiwari2k3/manish-223117/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/manishtiwari2k3/manish-223117/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/manishtiwari2k3/manish-223117/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/manishtiwari2k3/manish-223117/tree/master/0820-find-eventual-safe-states) |
@@ -982,6 +984,7 @@
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/manishtiwari2k3/manish-223117/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/manishtiwari2k3/manish-223117/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/manishtiwari2k3/manish-223117/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/manishtiwari2k3/manish-223117/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1021,6 +1024,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/manishtiwari2k3/manish-223117/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/manishtiwari2k3/manish-223117/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/manishtiwari2k3/manish-223117/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/manishtiwari2k3/manish-223117/tree/master/1396-count-servers-that-communicate) |
