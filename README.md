@@ -393,6 +393,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manishtiwari2k3/manish-223117/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/manishtiwari2k3/manish-223117/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/manishtiwari2k3/manish-223117/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/manishtiwari2k3/manish-223117/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/manishtiwari2k3/manish-223117/tree/master/0214-shortest-palindrome) |
 | [0402-remove-k-digits](https://github.com/manishtiwari2k3/manish-223117/tree/master/0402-remove-k-digits) |
