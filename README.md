@@ -52,6 +52,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/manishtiwari2k3/manish-223117/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/1019-squares-of-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/manishtiwari2k3/manish-223117/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/manishtiwari2k3/manish-223117/tree/master/1046-max-consecutive-ones-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/manishtiwari2k3/manish-223117/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/1256-rank-transform-of-an-array) |
@@ -912,6 +913,7 @@
 | [0787-sliding-puzzle](https://github.com/manishtiwari2k3/manish-223117/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/manishtiwari2k3/manish-223117/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/manishtiwari2k3/manish-223117/tree/master/0854-making-a-large-island) |
+| [1036-rotting-oranges](https://github.com/manishtiwari2k3/manish-223117/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/manishtiwari2k3/manish-223117/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manishtiwari2k3/manish-223117/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/manishtiwari2k3/manish-223117/tree/master/1396-count-servers-that-communicate) |
@@ -965,6 +967,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/manishtiwari2k3/manish-223117/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/manishtiwari2k3/manish-223117/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/manishtiwari2k3/manish-223117/tree/master/0854-making-a-large-island) |
+| [1036-rotting-oranges](https://github.com/manishtiwari2k3/manish-223117/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/manishtiwari2k3/manish-223117/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/manishtiwari2k3/manish-223117/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/manishtiwari2k3/manish-223117/tree/master/1402-count-square-submatrices-with-all-ones) |
