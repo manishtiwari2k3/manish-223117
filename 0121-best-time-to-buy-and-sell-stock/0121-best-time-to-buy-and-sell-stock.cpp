@@ -8,8 +8,7 @@ public:
             if(sp>buyp){
                 profit = max(profit,sp-buyp);
             }
-            buyp = min(buyp,prices[i]);
-
+            buyp = min(buyp , prices[i]);
         }
         return profit;
     }
