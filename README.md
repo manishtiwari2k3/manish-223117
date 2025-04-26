@@ -12,6 +12,7 @@
 | [0048-rotate-image](https://github.com/manishtiwari2k3/manish-223117/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/manishtiwari2k3/manish-223117/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/manishtiwari2k3/manish-223117/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/manishtiwari2k3/manish-223117/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/manishtiwari2k3/manish-223117/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/manishtiwari2k3/manish-223117/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manishtiwari2k3/manish-223117/tree/master/0084-largest-rectangle-in-histogram) |
@@ -374,6 +375,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/manishtiwari2k3/manish-223117/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/manishtiwari2k3/manish-223117/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0148-sort-list) |
