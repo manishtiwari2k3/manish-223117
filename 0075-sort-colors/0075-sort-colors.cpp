@@ -7,7 +7,7 @@ public:
         int high = n-1;
         while(mid<=high){
             if(nums[mid]==0){
-                swap(nums[low],nums[mid]);
+                swap(nums[mid],nums[low]);
                 low++;
                 mid++;
             }
@@ -15,9 +15,10 @@ public:
                 mid++;
             }
             else{
-                swap(nums[high],nums[mid]);
+                swap(nums[mid],nums[high]);
                 high--;
             }
         }
+
     }
 };
