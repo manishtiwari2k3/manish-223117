@@ -430,6 +430,7 @@
 | [0678-valid-parenthesis-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/manishtiwari2k3/manish-223117/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/manishtiwari2k3/manish-223117/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/manishtiwari2k3/manish-223117/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/manishtiwari2k3/manish-223117/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/manishtiwari2k3/manish-223117/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -539,6 +540,7 @@
 | [0455-assign-cookies](https://github.com/manishtiwari2k3/manish-223117/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/manishtiwari2k3/manish-223117/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/manishtiwari2k3/manish-223117/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/manishtiwari2k3/manish-223117/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/manishtiwari2k3/manish-223117/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/manishtiwari2k3/manish-223117/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -627,6 +629,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/manishtiwari2k3/manish-223117/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0868-push-dominoes](https://github.com/manishtiwari2k3/manish-223117/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/manishtiwari2k3/manish-223117/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/manishtiwari2k3/manish-223117/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/manishtiwari2k3/manish-223117/tree/master/1013-fibonacci-number) |
