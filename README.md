@@ -632,6 +632,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/manishtiwari2k3/manish-223117/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/manishtiwari2k3/manish-223117/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/manishtiwari2k3/manish-223117/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0806-domino-and-tromino-tiling](https://github.com/manishtiwari2k3/manish-223117/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/manishtiwari2k3/manish-223117/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/manishtiwari2k3/manish-223117/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/manishtiwari2k3/manish-223117/tree/master/0943-sum-of-subarray-minimums) |
